@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container my-5 p-4 border border-dark rounded shadow" style="width: 40%;background-color:mistyrose">
+    <h1 class="text-center text-monospace font-weight-bold">Login</h1>
+    <form action='login' method='POST'>
+        {% csrf_token %}
+        <div class="form-group">
+            <label for="formGroupExampleInput2">Username</label>
+            <input type="text" class="form-control" id="formGroupExampleInput2" name="username" placeholder="username" required/>
+        </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput2">Password</label>
+            <input type="password" class="form-control" id="formGroupExampleInput2" name="password"
+                placeholder="Password" required/>
+        </div>
+        <input class="btn btn-primary" type="submit" value="Login">
+    </form>
+
+    {% for message in messages %}
+    <p class="text-danger my-2">{{message}}</p>
+    {% endfor %}
+</div>
+{% endblock content %}

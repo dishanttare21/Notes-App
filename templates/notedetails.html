@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+{%if user.is_authenticated %}
+<div class="container my-4 w-50 p-3">
+    <div class="card text-center">
+        <a class="position-absolute top-0 start-0 mx-2" href="{% url 'index' %}"><button type="button" class="btn-close"
+                aria-label="Close"></button></a>
+        <div class="card-body">
+            <h5 class="card-title">{{note.title}}</h5>
+            <p class="card-body" style="white-space: pre-wrap;">{{note.content}}</p>
+            <a href="{% url 'update' note.id %}" style="text-decoration: none;">
+                <button class="btn btn-primary " type="button">Edit</button>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="row container-fluid " id="notes" style="margin-left: 150px; width:90%;">
+    {% for n in user.note.all %}
+
+    <div class="card my-2 mx-2" style="width: 18rem; min-height: 300px; max-height: 300px; background-color: mintcream;" id={{n.id}}>
+
+        <div class="card-body overflow-hidden my-2">
+            <h5 class="card-title">{{n.title}}</h5>
+            <p class="card-text" style="white-space: pre-wrap">{{n.content}}</p>
+        </div>
+
+        <a href="{% url 'notedetails' n.id %}" style="text-decoration: none;">
+            <div class="d-grid gap-2">
+                <button type="button" class="btn btn-primary btn ">View</button>
+            </div>
+        </a>
+
+        <a href="{% url 'delete' n.id %}" style="text-decoration: none;">
+            <div class="d-grid gap-2 my-1">
+                <button class="btn btn-danger " type="button">Delete</button>
+            </div>
+        </a>
+
+    </div>
+    
+    {% endfor %}
+    {% endif %}
+    {% endblock content %}

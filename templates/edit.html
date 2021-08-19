@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="container my-4 w-50 p-3">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Take a note</h5>
+            <div class="mb-3">
+                <input type="hidden" class="form-control" name="id" placeholder="Title" value="{{notes.id}}">
+            </div>
+            <div class="mb-3">
+                <input type="text" class="form-control" name="title" placeholder="Title" value="{{notes.title}}">
+            </div>
+            <div class="mb-3">
+                <textarea class="form-control" name="content" rows="3" placeholder="Take a note.."
+                    style="white-space: pre-wrap;">{{notes.content}}</textarea>
+            </div>
+            <div class="d-grid gap-2 d-md-block">
+                <form action="edit/<int:noteid>/" method="POST">
+                        <button class="btn btn-primary" type="submit">Save Changes</button>
+                </form>
+                <button class="btn btn-primary my-1" type="button"><a href="{% url 'index' %}"
+                        style="text-decoration: none; color:aliceblue">Cancel</a></button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row container-fluid " id="notes" style="margin-left: 150px; width:90%;">
+    {% for document in documents %}
+
+    <div class="card my-2 mx-2" style="width: 18rem; max-height: 300px;" id={{document.id}}>
+
+        <div class="card-body" style="white-space: pre-line; overflow: hidden; text-overflow: ellipsis;">
+            <h5 class="card-title">{{document.title}}</h5>
+            <p class="card-text my-1">{{document.content}}</p>
+
+        </div>
+
+        <a href="{% url 'notedetails' document.id %}" style="text-decoration: none;">
+            <div class="d-grid gap-2">
+                <button type="button" class="btn btn-primary btn ">View</button>
+            </div>
+        </a>
+        <button type="button" class="btn btn-primary btn my-1">Delete</button>
+    </div>
+
+    {% endfor %}
+    {% endblock content %}

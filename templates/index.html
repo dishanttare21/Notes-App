@@ -1,0 +1,89 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{%if user.is_authenticated %}
+<div class="container my-4 w-50 p-3">
+    <div class="card shadow-sm" style="background-color: mintcream;">
+        <div class="card-body">
+            <form action="" method="POST">
+                {% csrf_token %}
+                <h5 class="card-title">Take a note</h5>
+                <div class="mb-3">
+                    <input type="text" class="form-control" placeholder="Title" name="title" required/>
+                </div>
+                <div class="mb-3">
+                    <textarea class="form-control" rows="3" name="content" placeholder="Take a note.."
+                        style="white-space: pre-wrap;"></textarea>
+                </div>
+                <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="submit">Add</button>
+                </div>
+                <div>
+                    {% for message in messages %}
+                    <p class="text-danger my-2">{{message}}</p>
+                    {% endfor %}
+                </div>
+            </form>
+            
+        </div>
+    </div>
+</div>
+
+
+<!-- {%if user.is_authenticated %}
+{% for n in user.note.all %}
+<div class="card my-2 mx-2" style="width: 18rem; max-height: 300px;" id={{document.id}}>
+
+    <div class="card-body" style="white-space: pre-line; overflow: hidden; text-overflow: ellipsis;">
+        <h5 class="card-title">{{n.title}}</h5>
+        <p class="card-text my-1">{{n.content}}</p>
+    </div>
+</div>
+{% endfor %}
+{% endif %} -->
+
+
+<div class="row container-fluid" id="notes" style="margin-left: 150px; width:90%;">
+    {% for n in user.note.all %}
+
+    <div class="card m-2 shadow-sm" style="background-color: mintcream; width: 18rem;min-height: 300px; max-height: 300px;" id={{n.id}}>
+
+        <div class="card-body overflow-hidden" style="overflow-wrap: break-word; text-overflow: ellipsis">
+            <h5 class="card-title">{{n.title}}</h5>
+            <p class="card-text my-1  overflow-hidden" style="white-space: pre-wrap">{{n.content}}</p>
+        </div>
+
+        <a href="{% url 'notedetails' n.id %}" style="text-decoration: none;">
+            <div class="d-grid gap-2">
+                <button class="btn btn-primary my-2" type="button">View</button>
+            </div>
+        </a>
+        <a href="{% url 'delete' n.id %}" style="text-decoration: none;">
+            <div class="d-grid gap-2 my-1">
+                <button class="btn btn-danger " type="button">Delete</button>
+            </div>
+        </a>
+    </div>
+
+    {% endfor %}
+</div>
+{% else %}
+<div class="mx-auto my-4" style="width: 400px;">
+    <h2 class="text-center text-monospace font-weight-bold">Login/Register</h2>
+</div>
+<div class="container container my-5 p-4 border border-dark rounded  shadow" style="width:30%;background-color:mistyrose">
+    <div>
+        <a href="accounts/login"><button type="button" class="btn btn-primary btn-lg"
+            style="margin-left: 140px;margin-top: 50px ;width: 30%">Login</button></a>
+    </div>
+    <div>
+        <a href="accounts/register"><button type="button" class="btn btn-dark btn-lg"
+            style="margin-left: 140px; margin-top: 80px ;margin-bottom: 80px;width: 30%">Register</button></a>
+    </div>
+    
+</div>
+
+{% endif %}
+
+{% endblock content %}

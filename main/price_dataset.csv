@@ -1,0 +1,1300 @@
+,Manufacturer,Category,Screen Size,Screen,CPU,RAM,Storage,GPU,Operating System,Weight,Price
+0,Apple,Ultrabook,13.3,2560x1600,Intel Core i5,8,128GB SSD,Intel Iris,macOS,1.37,133969
+1,Apple,Ultrabook,13.3,1440x900,Intel Core i5,8,128GB Flash Storage,Intel HD,macOS,1.34,89894
+2,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,No OS,1.86,57500
+3,Apple,Ultrabook,15.4,2880x1800,Intel Core i7,16,512GB SSD,AMD Radeon,macOS,1.83,253745
+4,Apple,Ultrabook,13.3,2560x1600,Intel Core i5,8,256GB SSD,Intel Iris,macOS,1.37,180360
+5,Acer,Notebook,15.6,1366x768,AMD A9 Series,4,500GB HDD,AMD Radeon,Windows,2.1,40000
+6,Apple,Ultrabook,15.4,2880x1800,Intel Core i7,16,256GB Flash Storage,Intel Iris,Mac OS,2.04,213997
+7,Apple,Ultrabook,13.3,1440x900,Intel Core i5,8,256GB Flash Storage,Intel HD,macOS,1.34,115870
+8,Asus,Ultrabook,14.0,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,1.3,149500
+9,Acer,Ultrabook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.6,77000
+10,HP,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,No OS,1.86,39390
+11,HP,Notebook,15.6,1920x1080,Intel Core i3,4,500GB HDD,Intel HD,No OS,1.86,34499
+12,Apple,Ultrabook,15.4,2880x1800,Intel Core i7,16,256GB SSD,AMD Radeon,macOS,1.83,243997
+13,Dell,Notebook,15.6,1920x1080,Intel Core i3,4,256GB SSD,AMD Radeon,Windows,2.2,49890
+14,Apple,Ultrabook,12.0,2304x1440,Intel Core M,8,256GB SSD,Intel HD,macOS,0.92,126240
+15,Apple,Ultrabook,13.3,2560x1600,Intel Core i5,8,256GB SSD,Intel Iris,macOS,1.37,151855
+16,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,2.2,74500
+17,Apple,Ultrabook,15.4,2880x1800,Intel Core i7,16,512GB SSD,AMD Radeon,macOS,1.83,285800
+18,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,8,1TB HDD,Nvidia GeForce,No OS,2.2,49900
+19,Dell,Ultrabook,13.3,1920x1080,Intel Core i5,8,128GB SSD,Intel UHD,Windows,1.22,97900
+20,Asus,Netbook,11.6,1366x768,Intel Atom x5,2,32GB Flash Storage,Intel HD,Windows,0.98,19190
+21,Lenovo,Gaming,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,99900
+22,HP,Notebook,15.6,1366x768,AMD E Series,4,500GB HDD,AMD Radeon,No OS,1.86,25800
+23,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.62,81900
+24,HP,Ultrabook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.91,65900
+25,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.3,41864
+26,Apple,Ultrabook,13.3,1440x900,Intel Core i5,8,128GB Flash Storage,Intel HD,Mac OS,1.35,109900
+27,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,AMD Radeon,Windows,2.2,80000
+28,Dell,Ultrabook,15.6,1920x1080,Intel Core i7,8,256GB SSD +  256GB SSD,Intel UHD,Windows,1.88,129800
+29,HP,Notebook,17.3,1920x1080,Intel Core i5,8,1TB HDD,Nvidia GeForce,Windows,2.5,89600
+30,Chuwi,Notebook,15.6,1920x1080,Intel Atom x5,4,64GB Flash Storage,Intel HD,Windows,1.89,24499
+31,Asus,Notebook,14.0,1366x768,AMD E Series,2,32GB Flash Storage,AMD Radeon,Windows,1.65,19900
+32,HP,Notebook,17.3,1920x1080,AMD A6 Series,4,500GB HDD,AMD Radeon,Windows,2.71,43900
+33,Dell,Ultrabook,13.3,3200x1800,Intel Core i7,16,512GB SSD,Intel UHD,Windows,1.2,186900
+34,Apple,Ultrabook,13.3,1440x900,Intel Core i5,8,256GB Flash Storage,Intel HD,Mac OS,1.35,99800
+35,Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual,4,64GB Flash Storage,Intel HD,Windows,1.44,24900
+36,Acer,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Linux,2.1,36700
+37,Dell,Notebook,17.3,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,AMD Radeon,Windows,2.8,97900
+38,HP,Notebook,15.6,1366x768,Intel Core i5,4,1TB HDD,Intel HD,Windows,1.86,48869
+39,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.1,87900
+40,Asus,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Intel HD,Linux,2.0,38900
+41,Dell,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.65,149900
+42,Asus,Notebook,15.6,1366x768,Intel Core i5,8,1TB HDD,Nvidia GeForce,Linux,2.3,52299
+43,Acer,Notebook,15.6,1920x1080,Intel Core i5,4,256GB SSD,Intel UHD,Windows,2.2,68200
+44,Dell,2 in 1 Convertible,17.3,1920x1080,Intel Core i5,12,1TB HDD,Nvidia GeForce,Windows,2.77,99900
+45,Apple,Ultrabook,13.3,2560x1600,Intel Core i5,8,256GB SSD,Intel Iris,macOS,1.37,141900
+46,Lenovo,Notebook,15.6,1366x768,Intel Core i3,4,128GB SSD,Intel HD,No OS,2.2,36900
+47,Asus,Gaming,17.3,1920x1080,AMD Ryzen 1700,8,256GB SSD +  1TB HDD,AMD Radeon,Windows,3.2,129900
+48,Dell,Notebook,15.6,1920x1080,Intel Core i5,4,256GB SSD,AMD Radeon,Windows,2.3,63900
+49,Asus,Notebook,17.3,1366x768,Intel Pentium Quad,4,1TB HDD,Nvidia GeForce,Windows,2.8,46600
+50,Lenovo,2 in 1 Convertible,10.1,1920x1200,Intel Atom x5,4,64GB Flash Storage,Intel HD,Android,0.69,31900
+51,Acer,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.2,84100
+52,HP,Notebook,15.6,1920x1080,AMD A6 Series,4,256GB SSD,AMD Radeon,Windows,1.86,39849
+53,HP,Notebook,13.3,1920x1080,Intel Core i7,8,512GB SSD,Intel UHD,Windows,1.49,110300
+54,Acer,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.4,38400
+55,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,2.13,76780
+56,HP,Notebook,15.6,1920x1080,Intel Core i3,4,128GB SSD,Intel HD,Windows,1.91,43900
+57,Asus,Notebook,15.6,1366x768,Intel Core i5,4,256GB SSD,Intel HD,Windows,2.0,58619
+58,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  2TB HDD,Nvidia GeForce,Windows,2.43,244900
+59,Asus,Notebook,15.6,1920x1080,Intel Core i3,4,256GB SSD,Intel HD,Linux,2.0,41500
+60,Dell,Notebook,17.3,1920x1080,Intel Core i7,16,256GB SSD +  2TB HDD,AMD Radeon,Windows,2.8,129900
+61,Dell,Ultrabook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.7,87900
+62,Lenovo,Notebook,14.0,1920x1080,Intel Core i3,8,256GB SSD,Intel HD,No OS,1.7,59900
+63,Asus,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.4,94100
+64,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.86,69000
+65,Asus,Ultrabook,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,1.8,198300
+66,HP,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,AMD Radeon,Windows,1.86,43869
+67,HP,Notebook,14.0,1366x768,Intel Celeron Dual,4,32GB SSD,Intel HD,Windows,1.44,22900
+68,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Intel HD,Windows,1.9,54900
+69,Asus,Gaming,17.3,1920x1080,Intel Core i7,12,1TB HDD,Nvidia GeForce,Linux,3.0,94900
+70,Microsoft,Ultrabook,13.5,2256x1504,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.252,108900
+71,Dell,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,1.4,95500
+72,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,2.2,87000
+73,MSI,Gaming,17.3,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,109500
+74,Acer,Notebook,14.0,1366x768,Intel Core i3,8,1TB HDD,Intel HD,Windows,2.1,38900
+75,Asus,Gaming,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.2,94900
+76,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,2TB HDD,Intel HD,No OS,2.2,51900
+77,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Intel UHD,Windows,2.02,85500
+78,Acer,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Nvidia GeForce,Windows,2.2,53000
+79,HP,Notebook,17.3,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,97700
+80,Dell,Ultrabook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.88,109616
+81,Apple,Ultrabook,12.0,2304x1440,Intel Core i5,8,512GB SSD,Intel HD,macOS,0.92,151000
+82,HP,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.63,86000
+83,Lenovo,Notebook,15.6,1920x1080,AMD A6 Series,4,128GB SSD,AMD R4,Windows,2.2,39900
+84,Acer,Notebook,15.6,1366x768,AMD A9 Series,4,1TB HDD,AMD Radeon,Windows,2.1,39500
+85,Dell,Gaming,15.6,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.65,134900
+86,HP,Ultrabook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,1.83,69900
+87,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.96,59899
+88,Asus,Gaming,15.6,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,144900
+89,Dell,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel UHD,Windows,1.21,164900
+90,Asus,Gaming,15.6,1920x1080,AMD FX 9830P,8,1TB HDD,AMD Radeon,Windows,2.45,69900
+91,Acer,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.2,68900
+92,HP,Notebook,13.3,1920x1080,Intel Core i7,16,512GB SSD,Intel UHD,Windows,1.49,119700
+93,Dell,Gaming,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.65,119500
+94,Asus,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.25,104900
+95,Acer,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.5,84700
+96,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,AMD Radeon,Linux,2.2,59990
+97,Dell,Notebook,15.6,1920x1080,Intel Core i3,4,256GB SSD,AMD Radeon,Linux,2.2,48500
+98,Asus,Notebook,15.6,1920x1080,Intel Core i3,6,256GB SSD,Nvidia GeForce,Windows,2.0,57700
+99,HP,Gaming,15.6,1920x1080,Intel Core i7,12,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.62,124900
+100,HP,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,1.91,71900
+101,HP,Notebook,15.6,1920x1080,AMD E Series,4,500GB HDD,AMD Radeon,Windows,2.1,34900
+102,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,AMD Radeon,Linux,2.2,64700
+103,HP,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,1.38,111900
+104,Microsoft,Ultrabook,13.5,2256x1504,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.252,134000
+105,HP,Notebook,14.0,1920x1080,Intel Core i5,6,256GB SSD,Nvidia GeForce,Windows,1.58,65900
+106,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Intel HD,Windows,1.85,41490
+107,Asus,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,1.3,119300
+108,MSI,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,129900
+109,Lenovo,Notebook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.58,148000
+110,Asus,Ultrabook,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,1.5,126200
+111,Dell,Ultrabook,13.3,3200x1800,Intel Core i7,8,256GB SSD,Intel Iris,Windows,1.23,137900
+112,Lenovo,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.37,139900
+113,HP,Notebook,14.0,1366x768,Intel Core i5,4,500GB HDD,Intel UHD,Windows,1.63,72200
+114,Dell,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.21,162900
+115,HP,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.26,139899
+116,HP,Notebook,14.0,1920x1080,Intel Core i7,8,512GB SSD,Intel UHD,Windows,1.63,108400
+117,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.16,113033
+118,Asus,Notebook,17.3,1920x1080,Intel Core i3,4,1TB HDD,Nvidia GeForce,Windows,2.0,56400
+119,Asus,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,1.7,111800
+120,Acer,Notebook,15.6,1920x1080,Intel Core i3,6,1TB HDD,Intel HD,Windows,2.1,47900
+121,MSI,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  2TB HDD,Nvidia GeForce,Windows,1.8,224150
+122,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,No OS,2.2,62900
+123,HP,Notebook,17.3,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.5,127100
+124,Acer,Notebook,15.6,1366x768,AMD A9 Series,4,256GB SSD,AMD Radeon,Windows,2.1,45100
+125,HP,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,No OS,1.86,25900
+126,HP,Notebook,14.0,1920x1080,Intel Core i5,8,1TB HDD,Intel UHD,Windows,1.63,81200
+127,Asus,Notebook,14.0,1366x768,AMD E Series,4,64GB SSD,AMD Radeon,Windows,1.65,27799
+128,Dell,Notebook,17.3,1920x1080,Intel Core i7,16,256GB SSD +  2TB HDD,AMD Radeon,Windows,2.8,139600
+129,HP,Notebook,17.3,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,2.5,92800
+130,Dell,Notebook,15.6,1366x768,Intel Core i5,8,1TB HDD,AMD Radeon,Windows,2.36,63899
+131,Dell,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,AMD Radeon,Windows,2.2,44900
+132,Acer,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel UHD,Windows,1.6,88400
+133,Acer,Notebook,15.6,1920x1080,Intel Core i3,4,256GB SSD,Nvidia GeForce,Windows,2.2,57200
+134,HP,Notebook,15.6,1366x768,Intel Core i7,8,1TB HDD,Intel HD,Windows,2.05,59800
+135,HP,Notebook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel UHD,Windows,1.63,98800
+136,Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual,4,1TB HDD,Intel HD,No OS,1.9,25236
+137,Asus,Gaming,17.3,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.0,93800
+138,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Nvidia GeForce,No OS,2.2,49900
+139,HP,Notebook,13.3,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.32,69900
+140,Acer,Notebook,17.3,1920x1080,Intel Core i3,4,1TB HDD,Nvidia GeForce,Windows,3.0,65500
+141,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,AMD Radeon,Windows,1.75,111602
+142,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,No OS,2.4,86900
+143,Toshiba,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.1,60200
+144,HP,Notebook,15.6,1366x768,AMD A6 Series,4,256GB SSD,AMD Radeon,Windows,1.86,36900
+145,Asus,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel UHD,Windows,1.25,109900
+146,HP,Ultrabook,12.5,3840x2160,Intel Core M,8,512GB SSD,Intel HD,Windows,0.97,201400
+147,Asus,Notebook,15.6,1920x1080,Intel Celeron Dual,4,1TB HDD,Intel HD,Windows,2.0,34400
+148,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.9,202900
+149,Acer,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.1,44700
+150,Dell,Gaming,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.56,124926
+151,Dell,Gaming,15.6,1920x1080,Intel Core i7,8,1TB Hybrid,Nvidia GeForce,Windows,2.62,89900
+152,Lenovo,Notebook,15.6,1366x768,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.9,49800
+153,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.8,189000
+154,HP,Ultrabook,14.0,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.48,108200
+155,HP,Notebook,15.6,1920x1080,Intel Core i5,6,256GB SSD,AMD Radeon,Windows,1.91,61900
+156,Lenovo,2 in 1 Convertible,14.0,1920x1080,Intel Core i3,4,256GB SSD,Intel HD,Windows,1.74,62900
+157,Asus,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.1,131500
+158,Dell,2 in 1 Convertible,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel UHD,Windows,1.56,104900
+159,Toshiba,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.1,44700
+160,Asus,Notebook,15.6,1366x768,AMD A9 Series,4,1TB HDD,AMD Radeon,Windows,2.03,40300
+161,Acer,Notebook,17.3,1920x1080,Intel Core i5,4,256GB SSD,Nvidia GeForce,Windows,3.0,80500
+162,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,AMD Radeon,Windows,2.13,72800
+163,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD,Nvidia GeForce,Windows,2.5,107900
+164,Acer,Notebook,15.6,1366x768,Intel Celeron Dual,4,1TB HDD,Intel HD,Windows,2.1,34800
+165,MSI,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.4,179900
+166,Acer,Notebook,15.6,1366x768,Intel Pentium Quad,4,1TB HDD,Intel HD,Windows,2.1,36351
+167,Dell,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.56,106049
+168,Acer,Notebook,17.3,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,3.0,85400
+169,HP,Notebook,13.3,1920x1080,Intel Core i5,4,500GB HDD,Intel UHD,Windows,1.49,75400
+170,Huawei,Ultrabook,13.0,2160x1440,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.05,134900
+171,HP,Notebook,17.3,1920x1080,Intel Core i5,6,2TB HDD,AMD Radeon,Windows,2.71,69900
+172,Lenovo,Notebook,15.6,1366x768,AMD A6 Series,4,500GB HDD,AMD Radeon,No OS,2.2,30900
+173,Toshiba,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.0,48900
+174,HP,Notebook,17.3,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.5,92300
+175,Dell,Notebook,15.6,1366x768,Intel Core i3,8,1TB HDD,Intel HD,Windows,2.3,45900
+176,Acer,Notebook,15.6,1366x768,Intel Core i3,4,128GB SSD,Intel HD,Windows,2.1,44900
+177,MSI,Gaming,18.4,1920x1080,Intel Core i7,32,512GB SSD +  1TB HDD,Nvidia GTX,Windows,4.4,279900
+178,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,AMD R17M-M1-70,Windows,1.9,81300
+179,HP,2 in 1 Convertible,13.3,3840x2160,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.29,149900
+180,Dell,Notebook,15.6,1920x1080,Intel Core i7,16,256GB SSD +  2TB HDD,AMD Radeon,Linux,2.02,104900
+181,Dell,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.23,139900
+182,Lenovo,2 in 1 Convertible,13.9,3840x2160,Intel Core i7,16,512GB SSD,Intel UHD,Windows,1.4,184900
+183,Toshiba,Notebook,15.6,1366x768,Intel Core i5,8,128GB SSD,Intel HD,Windows,2.0,79300
+184,Xiaomi,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,No OS,1.95,119900
+185,Dell,Notebook,17.3,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.77,154900
+186,Dell,Notebook,15.6,3840x2160,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.06,239700
+187,Lenovo,Gaming,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,No OS,2.4,77900
+188,Acer,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.12,98900
+189,Dell,Notebook,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,AMD Radeon,Windows,2.8,108500
+190,Lenovo,2 in 1 Convertible,14.0,2560x1440,Intel Core i7,16,1TB SSD,Intel HD,Windows,1.42,282400
+191,Vero,Notebook,14.0,1920x1080,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.3,26000
+192,Xiaomi,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,No OS,1.3,99990
+193,Lenovo,Notebook,17.3,1600x900,Intel Core i5,8,256GB SSD,Nvidia GeForce,No OS,2.8,69800
+194,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,1TB HDD,Intel UHD,Windows,1.62,83900
+195,HP,Notebook,17.3,1920x1080,Intel Core i5,8,1TB HDD,Nvidia GeForce,Windows,2.5,91400
+196,HP,Notebook,13.3,1920x1080,Intel Core i5,8,512GB SSD,Intel UHD,Windows,1.49,95900
+197,HP,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.35,137900
+198,HP,Notebook,17.3,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.5,104500
+199,Dell,Gaming,15.6,3840x2160,Intel Core i7,16,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.65,184500
+200,Lenovo,Notebook,15.6,1366x768,Intel Core i5,4,128GB SSD,Intel HD,Windows,2.1,49300
+201,Acer,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.23,74200
+202,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,16,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.2,174900
+203,Dell,Workstation,15.6,3840x2160,Intel Xeon E3,16,256GB SSD +  1TB HDD,Nvidia Quadro,Windows,2.8,305500
+204,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,No OS,2.4,139800
+205,Dell,Notebook,15.6,1366x768,Intel Core i3,6,1TB HDD,Intel HD,Windows,2.3,43900
+206,Dell,Ultrabook,13.3,3840x2160,Intel Core i7,8,256GB SSD,Intel UHD,Windows,1.21,194900
+207,Dell,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel UHD,Windows,1.2,144900
+208,Lenovo,Notebook,15.6,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.2,59700
+209,Acer,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Linux,2.4,77900
+210,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.9,140700
+211,HP,Notebook,15.6,1920x1080,Intel Core i3,4,500GB HDD,Intel HD,No OS,2.1,34900
+212,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,No OS,2.2,54900
+213,Huawei,Ultrabook,13.0,2160x1440,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.05,149900
+214,Dell,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,1.4,93188
+215,Lenovo,Notebook,17.3,1600x900,Intel Core i5,8,1TB HDD,Nvidia GeForce,No OS,2.8,58900
+216,HP,Notebook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,1.63,103100
+217,Dell,Ultrabook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.6,114900
+218,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,16,512GB SSD,Intel UHD,Windows,1.62,127900
+219,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,AMD Radeon,Linux,2.2,67735
+220,Lenovo,2 in 1 Convertible,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.74,89900
+221,Toshiba,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.2,136300
+222,HP,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,Intel UHD,Windows,2.1,79400
+223,Dell,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.42,245634
+224,Acer,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.2,83200
+225,Dell,Notebook,15.6,1920x1080,Intel Core i7,16,1TB HDD,AMD Radeon,Windows,2.3,85901
+226,Asus,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.0,76900
+227,Asus,Notebook,17.3,1920x1080,Intel Core i5,8,256GB SSD +  500GB HDD,Nvidia GeForce,Windows,2.69,89100
+228,HP,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,AMD FirePro,Windows,1.9,126900
+229,Asus,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.37,39899
+230,HP,Notebook,15.6,1366x768,AMD E Series,4,500GB HDD,AMD Radeon,Windows,2.1,33000
+231,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.2,149900
+232,Dell,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.6,85900
+233,Acer,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.6,68900
+234,Dell,Notebook,15.6,1920x1080,Intel Core i7,16,256GB SSD,AMD Radeon,Linux,2.36,89900
+235,Acer,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Linux,2.1,39000
+236,Asus,Notebook,15.6,1920x1080,AMD A10 Series,4,128GB SSD +  1TB HDD,AMD Radeon,Windows,2.2,57500
+237,Asus,Gaming,17.3,1920x1080,Intel Core i7,32,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.7,389000
+238,Acer,Gaming,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.5,84600
+239,Lenovo,Notebook,15.6,1366x768,Intel Core i3,8,128GB SSD,Intel HD,Windows,2.2,58900
+240,Asus,Notebook,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.1,114500
+241,Asus,Notebook,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,No OS,2.69,88900
+242,Dell,Gaming,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.56,87900
+243,Lenovo,2 in 1 Convertible,13.9,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.38,107900
+244,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,128GB SSD +  2TB HDD,AMD Radeon,Windows,2.2,98500
+245,HP,Notebook,15.6,1366x768,Intel Core i5,8,1TB HDD,Intel HD,Windows,2.04,55900
+246,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD,Nvidia GeForce,Windows,3.6,299900
+247,HP,Notebook,13.3,1920x1080,Intel Core i5,4,500GB HDD,Intel UHD,Windows,1.49,67500
+248,Apple,Ultrabook,13.3,2560x1600,Intel Core i5,8,512GB SSD,Intel Iris,macOS,1.37,204000
+249,Dell,2 in 1 Convertible,15.6,1920x1080,Intel Core i7,8,1TB HDD,Intel UHD,Windows,2.08,81900
+250,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.3,179900
+251,Asus,Notebook,15.6,1366x768,AMD A9 Series,4,1TB HDD,AMD Radeon,Windows,1.68,46900
+252,Lenovo,2 in 1 Convertible,13.9,1920x1080,Intel Core i7,8,512GB SSD,Intel UHD,Windows,1.37,184900
+253,Acer,Notebook,17.3,1920x1080,Intel Core i3,4,256GB SSD,Nvidia GeForce,Windows,3.0,70200
+254,Dell,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.41,94900
+255,HP,Notebook,15.6,1366x768,AMD A6 Series,8,128GB SSD,AMD Radeon,Windows,1.91,44590
+256,HP,Notebook,17.3,1920x1080,Intel Core i7,16,1TB HDD,Nvidia GeForce,Windows,2.9,105900
+257,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.14,249900
+258,Lenovo,2 in 1 Convertible,15.6,1920x1080,Intel Core i7,8,512GB SSD,Nvidia GeForce,Windows,2.0,169900
+259,Dell,Notebook,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,AMD Radeon,Windows,2.8,114200
+260,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,256GB SSD,Intel HD,No OS,2.2,44400
+261,HP,Notebook,15.6,1920x1080,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.1,72200
+262,Dell,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Intel HD,Windows,2.18,65700
+263,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,AMD Radeon,Windows,2.24,56500
+264,Dell,2 in 1 Convertible,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,2.67,79900
+265,Asus,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,512GB SSD +  512GB SSD,Intel UHD,Windows,1.1,149900
+266,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Intel HD,No OS,2.2,46700
+267,HP,Notebook,17.3,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.5,101800
+268,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel UHD,Windows,2.05,88000
+269,Apple,Ultrabook,13.3,2560x1600,Intel Core i5,8,512GB SSD,Intel Iris,macOS,1.37,195890
+270,Asus,Gaming,17.3,1920x1080,AMD Ryzen 1700,16,256GB SSD +  1TB HDD,AMD Radeon,Windows,3.2,154900
+271,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Linux,2.14,73507
+272,Lenovo,2 in 1 Convertible,14.0,2560x1440,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.36,249900
+273,Toshiba,Notebook,15.6,1366x768,Intel Core i7,8,500GB HDD,Nvidia GeForce,Windows,2.2,81200
+274,Dell,Notebook,15.6,1366x768,Intel Core i7,12,1TB HDD,Intel HD,Windows,2.3,71307
+275,Dell,Notebook,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,AMD Radeon,Linux,2.8,109900
+276,Acer,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.2,74500
+277,Lenovo,Notebook,17.3,1600x900,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.8,48900
+278,Lenovo,Notebook,17.3,1920x1080,Intel Core i7,8,2TB HDD,Nvidia GeForce,No OS,2.8,84900
+279,Lenovo,Notebook,17.3,1600x900,Intel Core i7,6,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.8,85900
+280,Dell,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,AMD Radeon,Linux,2.25,42800
+281,Lenovo,Gaming,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.5,82900
+282,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,6,256GB SSD,Intel HD,Windows,2.2,57900
+283,Acer,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,3.0,95100
+284,Acer,Notebook,15.6,1920x1080,Intel Core i7,12,1TB HDD,Intel HD,Windows,2.15,65900
+285,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.95,109700
+286,Asus,Ultrabook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,1.7,97700
+287,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,117900
+288,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,No OS,2.2,65901
+289,Acer,Notebook,15.6,1366x768,Intel Celeron Dual,2,16GB SSD,Intel HD,Chrome OS,2.19,19900
+290,Asus,Gaming,17.3,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,3.0,118700
+291,HP,Notebook,17.3,1600x900,Intel Core i3,8,1TB HDD,Intel HD,Windows,2.54,48900
+292,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.0,182900
+293,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,2.05,73900
+294,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,3.2,129900
+295,Acer,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Linux,2.5,97900
+296,Dell,Workstation,17.3,1920x1080,Intel Core i7,16,256GB SSD,Nvidia Quadro,Windows,3.42,288486
+297,Lenovo,Notebook,15.6,1920x1080,AMD A10 Series,6,1TB HDD,AMD Radeon,Windows,2.4,49900
+298,Asus,Ultrabook,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,1.63,146800
+299,Asus,Notebook,14.0,1366x768,Intel Core i3,4,128GB SSD,Intel HD,Windows,1.3,50900
+300,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.9,212200
+301,Lenovo,Notebook,17.3,1600x900,Intel Core i5,6,1TB HDD,Nvidia GeForce,Windows,2.8,64900
+302,Lenovo,Notebook,15.6,1366x768,Intel Core i5,8,2TB HDD,Nvidia GeForce,No OS,2.2,54900
+303,Asus,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,126500
+304,Lenovo,Notebook,15.6,1366x768,Intel Pentium Quad,4,1TB HDD,Intel HD,No OS,2.2,35999
+305,HP,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,16,256GB SSD,Intel HD,Windows,1.28,197500
+306,Toshiba,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.2,104300
+307,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.3,81900
+308,HP,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Intel HD,Windows,1.86,46900
+309,Lenovo,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.1,99900
+310,Dell,Ultrabook,13.3,3840x2160,Intel Core i7,16,1TB SSD,Intel UHD,Windows,1.21,249900
+311,MSI,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.8,209900
+312,Acer,Notebook,15.6,1920x1080,AMD A8 Series,8,256GB SSD,AMD Radeon,Windows,2.23,46900
+313,Asus,2 in 1 Convertible,11.6,1366x768,Intel Celeron Dual,2,32GB Flash Storage,Intel HD,Windows,1.1,27500
+314,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,AMD Radeon,Windows,2.33,84400
+315,HP,2 in 1 Convertible,13.3,3840x2160,Intel Core i7,16,1TB SSD,Intel UHD,Windows,1.29,244900
+316,Lenovo,Notebook,13.3,1366x768,Intel Celeron Dual,4,16GB Flash Storage,Intel HD,Chrome OS,1.45,45990
+317,HP,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.95,98000
+318,Acer,Notebook,11.6,1366x768,Intel Pentium Quad,4,128GB Flash Storage,Intel HD,Windows,1.4,48500
+319,HP,Notebook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.48,129200
+320,Lenovo,Notebook,17.3,1600x900,Intel Core i5,4,1TB HDD,Nvidia GeForce,Windows,2.79,58900
+321,Asus,Notebook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,2.0,109400
+322,HP,Notebook,15.6,1366x768,Intel Core i7,8,1TB HDD,Intel UHD,Windows,2.1,90200
+323,Acer,Notebook,15.6,1366x768,AMD A12 Series,8,256GB SSD,AMD Radeon,Windows,2.2,65900
+324,Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.44,29200
+325,Acer,Notebook,15.6,1366x768,Intel Core i5,6,1TB HDD,Intel HD,Windows,2.23,54900
+326,Asus,Ultrabook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,1.7,104990
+327,HP,Ultrabook,12.5,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.26,133500
+328,Dell,Notebook,15.6,3840x2160,Intel Core i7,32,1TB SSD,Nvidia GeForce,Windows,2.06,263900
+329,MSI,Gaming,17.3,1920x1080,Intel Core i7,8,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,119900
+330,Toshiba,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.0,94300
+331,Asus,Notebook,14.0,1920x1080,Intel Core i7,8,256GB SSD +  1TB HDD,Intel HD,Windows,2.0,133400
+332,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Intel HD,Windows,1.85,44900
+333,Asus,Gaming,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.5,99900
+334,HP,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.48,126800
+335,Dell,Ultrabook,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,1.9,104900
+336,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.84,114400
+337,Asus,Notebook,15.6,1366x768,Intel Celeron Dual,4,1TB HDD,Intel HD,Linux,2.0,27499
+338,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.0,114275
+339,Dell,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Linux,2.2,27490
+340,Lenovo,Notebook,15.6,1920x1080,AMD A12 Series,12,2TB HDD,AMD Radeon,Windows,2.2,89900
+341,HP,Notebook,15.6,1920x1080,Intel Core i3,8,1TB HDD,Nvidia GeForce,Windows,2.1,71600
+342,Lenovo,2 in 1 Convertible,13.9,3840x2160,Intel Core i7,16,512GB SSD,Intel UHD,Windows,1.4,209900
+343,Dell,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel UHD,Windows,1.2,157900
+344,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  2TB HDD,Nvidia GeForce,Windows,2.4,112900
+345,HP,Notebook,14.0,1366x768,Intel Celeron Dual,2,32GB Flash Storage,Intel HD,Windows,1.44,27900
+346,Dell,Ultrabook,15.6,1920x1080,Intel Core i7,16,512GB SSD +  256GB SSD,Intel UHD,Windows,1.88,160796
+347,Asus,2 in 1 Convertible,11.6,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.5,37500
+348,Dell,Ultrabook,15.6,1920x1080,Intel Core i5,8,1TB HDD,AMD Radeon,Windows,1.9,66300
+349,Dell,Notebook,15.6,3840x2160,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.06,202742
+350,HP,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.84,130400
+351,MSI,Gaming,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,140900
+352,HP,Workstation,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,2.6,173827
+353,Toshiba,Notebook,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.4,140300
+354,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,128GB SSD +  2TB HDD,AMD Radeon,Windows,2.02,97090
+355,Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual,4,1TB HDD,Intel HD,No OS,2.2,32199
+356,Dell,Gaming,15.6,1920x1080,Intel Core i5,8,1TB HDD,Nvidia GeForce,Windows,2.65,99900
+357,Dell,Notebook,15.6,1366x768,Intel Core i5,8,2TB HDD,Intel HD,Windows,2.36,55737
+358,Dell,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.36,142700
+359,HP,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,1.86,43900
+360,Asus,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.0,94500
+361,Lenovo,Notebook,17.3,1600x900,Intel Core i5,6,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.8,71900
+362,HP,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,Intel HD,Windows,1.86,63900
+363,Lenovo,Notebook,15.6,1366x768,Intel Core i3,8,256GB SSD,Nvidia GeForce,No OS,2.2,49900
+364,HP,Notebook,15.6,1366x768,Intel Pentium Quad,8,2TB HDD,Intel HD,Windows,2.04,38900
+365,Dell,Notebook,17.3,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,AMD Radeon,Windows,2.8,108500
+366,Lenovo,Gaming,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,No OS,2.4,80900
+367,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,2.33,89900
+368,HP,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.36,175000
+369,Asus,2 in 1 Convertible,15.6,1920x1080,Intel Core i7,12,512GB SSD +  2TB HDD,Nvidia GeForce,Windows,2.26,109900
+370,Acer,Notebook,15.6,1366x768,AMD A9 Series,4,128GB SSD,AMD Radeon,Windows,2.1,42600
+371,Asus,Gaming,17.3,1920x1080,AMD Ryzen 1700,16,256GB SSD +  1TB HDD,AMD Radeon,Windows,3.25,219900
+372,Lenovo,Notebook,17.3,1600x900,AMD A8 Series,4,128GB SSD,AMD Radeon,Windows,2.6,48900
+373,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel UHD,Windows,1.62,86901
+374,HP,Notebook,15.6,1920x1080,AMD A9 Series,4,256GB SSD,AMD Radeon,Windows,1.91,48899
+375,Lenovo,Netbook,11.6,1366x768,Intel Celeron Quad,4,128GB SSD,Intel HD,Windows,1.59,55300
+376,Dell,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Windows,1.8,30900
+377,Asus,Notebook,14.0,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.5,28600
+378,Acer,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Linux,2.4,84600
+379,HP,Gaming,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.35,119100
+380,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,128GB SSD,Intel HD,No OS,1.85,40350
+381,Asus,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.3,165500
+382,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,1.5,109900
+383,Asus,Ultrabook,13.3,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.1,174890
+384,Lenovo,Ultrabook,14.0,2560x1440,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.13,228200
+385,Lenovo,Notebook,13.3,1920x1080,Intel Core i3,4,128GB SSD,Intel HD,Windows,1.5,54900
+386,Dell,Workstation,15.6,1920x1080,Intel Core i5,8,500GB HDD,AMD FirePro,Windows,2.23,136900
+387,Dell,Workstation,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,2.0,213500
+388,Lenovo,2 in 1 Convertible,14.0,2560x1440,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.42,250900
+389,Asus,Gaming,17.3,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,3.0,103900
+390,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.0,159100
+391,Acer,Notebook,15.6,1366x768,Intel Core i5,12,1TB HDD,Nvidia GeForce,Windows,2.2,69399
+392,MSI,Gaming,17.3,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.7,134900
+393,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Linux,2.33,77887
+394,HP,Ultrabook,15.6,1920x1080,AMD A9 Series,4,256GB SSD,AMD Radeon,Windows,1.91,49900
+395,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,2.1,122956
+396,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.9,93800
+397,Dell,Workstation,15.6,3840x2160,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,1.78,271200
+398,Lenovo,Ultrabook,14.0,2560x1440,Intel Core i7,16,1TB SSD,Intel HD,Windows,1.13,262500
+399,Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual,4,1TB HDD,Intel HD,Windows,2.2,30600
+400,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.9,152900
+401,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD +  1TB HDD,AMD Radeon,Windows,2.1,114450
+402,Acer,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Linux,2.5,87900
+403,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.8,224900
+404,Asus,Ultrabook,14.0,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.1,187300
+405,Toshiba,Ultrabook,13.3,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.2,174700
+406,Dell,Ultrabook,14.0,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.36,168000
+407,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.2,40900
+408,Lenovo,Notebook,11.6,1366x768,Intel Celeron Dual,2,32GB Flash Storage,Intel HD,Windows,1.15,30445
+409,Lenovo,Workstation,15.6,1920x1080,Intel Core i7,8,512GB SSD,Nvidia Quadro,Windows,2.67,192500
+410,Lenovo,Ultrabook,14.0,2560x1440,Intel Core i7,8,512GB SSD,Nvidia GeForce,Windows,1.7,194300
+411,HP,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,AMD Radeon,Windows,2.1,46900
+412,Acer,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.6,78901
+413,Asus,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.27,92800
+414,Dell,Notebook,15.6,1920x1080,Intel Core i5,4,256GB SSD,AMD Radeon,Linux,2.3,59890
+415,Dell,Notebook,13.3,1366x768,Intel Core i3,4,128GB SSD,Intel HD,Windows,1.65,68900
+416,HP,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.43,150000
+417,Dell,Notebook,15.6,1366x768,Intel Core i5,8,1TB HDD,Intel HD,Windows,2.14,53995
+418,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,1.75,121538
+419,Lenovo,2 in 1 Convertible,15.6,3840x2160,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.0,189900
+420,Chuwi,Notebook,12.3,2736x1824,Intel Celeron Quad,6,64GB Flash Storage,Intel HD,Windows,1.4,44900
+421,HP,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,2.31,142700
+422,Asus,Notebook,15.6,1920x1080,Intel Core i3,8,1TB HDD,Nvidia GeForce,Linux,2.3,59700
+423,Dell,Gaming,17.3,2560x1440,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.42,279900
+424,Dell,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.62,115900
+425,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD +  2TB HDD,AMD Radeon,Windows,2.02,114240
+426,Dell,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Linux,1.6,109900
+427,HP,Gaming,17.3,1920x1080,Intel Core i7,12,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.35,199900
+428,Mediacom,2 in 1 Convertible,11.6,1920x1080,Intel Celeron Dual,4,32GB SSD,Intel HD,Windows,1.16,29900
+429,Samsung,Netbook,11.6,1366x768,Intel Celeron Dual,4,16GB Flash Storage,Intel HD,Chrome OS,1.15,26900
+430,Lenovo,Notebook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.4,101000
+431,Lenovo,Notebook,14.0,1920x1080,Intel Core i3,4,128GB SSD,Intel HD,Windows,1.7,59900
+432,Lenovo,Workstation,15.6,3840x2160,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.3,244500
+433,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia Quadro,Windows,2.5,244900
+434,Asus,Gaming,17.3,1920x1080,AMD Ryzen 1600,8,256GB SSD +  1TB HDD,AMD Radeon,Windows,3.2,169500
+435,HP,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Windows,2.1,34700
+436,Google,Ultrabook,12.3,2400x1600,Intel Core i7,16,512GB SSD,Intel HD,Chrome OS,1.1,219900
+437,Lenovo,Ultrabook,14.0,2560x1440,Intel Core i7,24,512GB SSD,Intel HD,Windows,1.32,238200
+438,Asus,Notebook,15.6,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Linux,2.0,55900
+439,Lenovo,Notebook,17.3,1600x900,AMD A6 Series,8,1TB HDD,AMD Radeon,Windows,2.8,51900
+440,Dell,Notebook,15.6,1920x1080,Intel Core i5,4,256GB SSD,AMD Radeon,Windows,2.2,74900
+441,Lenovo,Ultrabook,12.5,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.36,142900
+442,Lenovo,Notebook,15.6,1920x1080,Intel Pentium Quad,4,128GB SSD,Intel HD,Windows,2.2,34900
+443,HP,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,109900
+444,Dell,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,1.64,117900
+445,Acer,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Linux,2.4,44180
+446,Dell,Workstation,15.6,1920x1080,Intel Xeon E3,8,64GB Flash Storage +  1TB HDD,Nvidia Quadro,Windows,2.23,199300
+447,MSI,Gaming,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.2,102774
+448,Microsoft,Ultrabook,13.5,2256x1504,Intel Core i7,16,512GB SSD,Intel Iris,Windows,1.25,258900
+449,HP,Notebook,15.6,1366x768,Intel Core i5,8,128GB SSD,Intel HD,Windows,1.91,58900
+450,Dell,Workstation,15.6,1920x1080,Intel Core i7,16,256GB SSD,Nvidia Quadro,Windows,2.17,197500
+451,HP,Workstation,15.6,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,2.31,153400
+452,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.65,134500
+453,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,AMD Radeon,Windows,2.36,97900
+454,Dell,2 in 1 Convertible,11.6,1366x768,Intel Pentium Quad,4,500GB HDD,Intel HD,Windows,1.47,47900
+455,Dell,Notebook,17.3,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,4.42,204600
+456,Microsoft,Ultrabook,13.5,2256x1504,Intel Core M,4,128GB SSD,Intel HD,Windows,1.252,98900
+457,Microsoft,Ultrabook,13.5,2256x1504,Intel Core i7,8,256GB SSD,Intel Iris,Windows,1.25,179900
+458,HP,Notebook,17.3,1600x900,Intel Core i3,8,256GB SSD,Intel HD,Windows,2.5,63990
+459,Acer,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Nvidia GeForce,Windows,2.23,54400
+460,Acer,Netbook,11.6,1366x768,Intel Celeron Dual,4,128GB SSD,Intel HD,Windows,1.4,43500
+461,Asus,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,Intel HD,Windows,2.37,74900
+462,Lenovo,Notebook,14.0,1920x1080,Intel Core i7,8,512GB SSD,AMD Radeon,No OS,1.5,79900
+463,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,2.67,209000
+464,Asus,Notebook,15.6,1366x768,Intel Pentium Quad,4,500GB HDD,Intel HD,Windows,2.0,30400
+465,Acer,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Nvidia GeForce,Windows,2.2,46900
+466,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,2TB HDD,AMD Radeon,Windows,2.02,75900
+467,HP,Gaming,17.3,1920x1080,Intel Core i7,12,1TB HDD,Nvidia GeForce,Windows,3.78,169900
+468,Lenovo,Ultrabook,14.0,2560x1440,Intel Core i7,12,256GB SSD,Intel HD,Windows,1.4,185800
+469,HP,2 in 1 Convertible,13.3,3840x2160,Intel Core i7,8,512GB SSD,Intel UHD,Windows,1.29,199900
+470,HP,Notebook,15.6,1920x1080,Intel Core i5,8,500GB HDD,AMD FirePro,Windows,1.9,115400
+471,Google,Ultrabook,12.3,2400x1600,Intel Core i5,8,128GB SSD,Intel HD,Chrome OS,1.1,127500
+472,Dell,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.42,184185
+473,Asus,Notebook,15.6,3840x2160,Intel Core i7,12,128GB SSD +  1TB HDD,Intel HD,Windows,2.06,129900
+474,Dell,Notebook,14.0,1366x768,Intel Core i3,8,128GB SSD,Intel HD,Windows,1.79,74000
+475,Dell,Workstation,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,1.78,240800
+476,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,1GB SSD,Intel HD,Windows,1.7,136400
+477,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,AMD Radeon,Windows,2.2,67500
+478,Toshiba,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.05,167200
+479,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,512GB SSD,Nvidia GeForce,Windows,2.16,126200
+480,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.18,58660
+481,HP,Notebook,13.3,1920x1080,Intel Core i5,4,128GB SSD,Intel UHD,Windows,1.49,72600
+482,Chuwi,Notebook,15.6,1920x1080,Intel Atom x5,4,64GB Flash Storage,Intel HD,Windows,1.89,24890
+483,Lenovo,Notebook,15.6,1366x768,Intel Core i3,4,128GB SSD,Intel HD,Windows,2.3,56500
+484,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.75,104900
+485,Dell,Workstation,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia Quadro,Windows,2.17,233800
+486,Dell,Notebook,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.06,189900
+487,Lenovo,Ultrabook,12.5,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.36,179800
+488,Asus,Ultrabook,12.5,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,0.91,195000
+489,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.3,101199
+490,Toshiba,Ultrabook,13.3,1920x1080,Intel Core i7,32,512GB SSD,Intel HD,Windows,1.05,279900
+491,Asus,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,1.99,135000
+492,Acer,Notebook,15.6,1366x768,AMD A10 Series,8,1TB HDD,AMD Radeon,Windows,2.2,57900
+493,Asus,Gaming,17.3,1920x1080,Intel Core i7,24,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.33,126900
+494,Lenovo,Ultrabook,12.5,1366x768,Intel Core i5,8,1GB SSD,Intel HD,Windows,1.3,109900
+495,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel UHD,Windows,2.17,89890
+496,HP,Notebook,14.0,1920x1080,Intel Core i7,8,1TB SSD,Intel HD,Windows,1.48,174900
+497,Lenovo,Notebook,13.3,1920x1080,Intel Core i3,8,256GB SSD,Intel HD,Windows,1.4,94900
+498,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.3,91100
+499,Asus,Netbook,11.6,1366x768,Intel Celeron Dual,4,64GB Flash Storage,Intel HD,Windows,1.2,34000
+500,HP,Notebook,15.6,1366x768,Intel Core i5,8,256GB SSD,AMD Radeon,Windows,1.91,61899
+501,Lenovo,2 in 1 Convertible,13.9,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.4,159900
+502,Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Windows,2.1,29900
+503,Lenovo,Netbook,11.6,1366x768,Intel Celeron Dual,4,16GB SSD,Intel HD,Chrome OS,1.25,26500
+504,Lenovo,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.44,94900
+505,Asus,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD +  1TB HDD,Intel HD,Windows,2.0,122400
+506,Acer,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Nvidia GeForce,Windows,2.2,61300
+507,HP,Ultrabook,13.3,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.34,132300
+508,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,8,256GB SSD +  1TB HDD,Nvidia GeForce,No OS,2.4,114900
+509,Dell,Ultrabook,13.3,1920x1080,Intel Core i5,8,128GB SSD,Intel HD,Windows,1.29,89900
+510,Acer,Notebook,15.6,1920x1080,Intel Core i7,4,500GB HDD,Nvidia GeForce,Windows,2.2,63900
+511,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,Intel HD,Windows,2.18,83600
+512,Dell,Notebook,15.6,1920x1080,Intel Core i7,16,256GB SSD +  2TB HDD,AMD Radeon,Windows,2.2,121924
+513,Xiaomi,Notebook,15.6,1920x1080,Intel Core i7,16,256GB SSD,Nvidia GeForce,No OS,1.95,139995
+514,Asus,Netbook,11.6,1366x768,Intel Celeron Dual,2,32GB Flash Storage,Intel HD,Windows,1.1,24500
+515,HP,Notebook,15.6,1366x768,Intel Core i5,4,1TB HDD,Intel UHD,Windows,2.04,52147
+516,Asus,Gaming,15.6,1920x1080,Intel Core i7,24,512GB SSD,Nvidia GeForce,Windows,2.24,296800
+517,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.04,88900
+518,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.0,150400
+519,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,8,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.2,139900
+520,HP,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.32,139900
+521,Dell,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.64,127973
+522,HP,Notebook,15.6,1366x768,Intel Core i3,4,128GB SSD,Intel HD,Windows,1.63,68900
+523,Dell,Notebook,17.3,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,AMD Radeon,Linux,2.8,88900
+524,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.02,134000
+525,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,4,1TB HDD,Nvidia GeForce,Windows,2.2,79900
+526,Lenovo,Notebook,15.6,1366x768,Intel Core i3,8,2TB HDD,Nvidia GeForce,No OS,2.2,45900
+527,Dell,Notebook,15.6,1920x1080,Intel Core i5,4,500GB HDD,AMD Radeon,Windows,2.3,58500
+528,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.9,137700
+529,Dell,Gaming,17.3,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.42,301277
+530,Toshiba,Notebook,15.6,1920x1080,Intel Core i5,8,500GB HDD,Intel HD,Windows,2.0,86000
+531,Asus,Notebook,15.6,3840x2160,Intel Core i7,8,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.0,129900
+532,Mediacom,Notebook,13.3,1920x1080,Intel Celeron Quad,4,32GB SSD,Intel HD,Windows,1.2,36900
+533,Asus,Gaming,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.3,164900
+534,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,1.93,136900
+535,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,AMD Radeon,Windows,2.2,79741
+536,HP,Notebook,15.6,1920x1080,Intel Pentium Quad,4,256GB SSD,Intel HD,Windows,1.86,39899
+537,HP,Gaming,17.3,1920x1080,Intel Core i7,12,1TB HDD,Nvidia GeForce,Windows,2.62,179900
+538,Lenovo,Notebook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,1.87,85900
+539,Dell,Ultrabook,13.3,3200x1800,Intel Core i7,8,256GB SSD,Intel UHD,Windows,1.2,139900
+540,Dell,Notebook,14.0,1920x1080,Intel Core i3,4,128GB SSD,Intel HD,Windows,1.6,73587
+541,HP,Ultrabook,13.3,3200x1800,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.34,114500
+542,Acer,Gaming,15.6,1920x1080,Intel Core i5,8,1TB HDD,Nvidia GeForce,Linux,2.4,79800
+543,Asus,Notebook,15.6,1366x768,AMD E Series,4,500GB HDD,AMD Radeon,Windows,2.0,34900
+544,HP,Notebook,15.6,1920x1080,Intel Core i3,4,128GB SSD,Intel HD,Windows,2.1,70550
+545,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.87,78500
+546,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Intel HD,No OS,2.15,46235
+547,HP,Notebook,15.6,1920x1080,Intel Core i3,4,500GB HDD,Intel HD,Windows,1.86,39700
+548,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.99,172900
+549,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,128GB SSD,Intel HD,Windows,2.2,49900
+550,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.9,111699
+551,Dell,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.42,269900
+552,HP,Notebook,17.3,1600x900,Intel Core i3,8,1TB HDD,Intel HD,Windows,2.65,54415
+553,HP,Notebook,17.3,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.63,128000
+554,Asus,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Linux,2.0,22400
+555,Mediacom,Notebook,13.3,1920x1080,Intel Atom x5,4,32GB Flash Storage,Intel HD,Windows,1.35,25500
+556,Lenovo,Notebook,17.3,1600x900,Intel Core i7,6,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.8,94900
+557,HP,Notebook,15.6,1920x1080,AMD A10 Series,6,128GB SSD,AMD Radeon,Windows,1.91,56890
+558,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,AMD Radeon,Windows,2.18,61790
+559,Acer,2 in 1 Convertible,11.6,1920x1080,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.25,34900
+560,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,128GB SSD,Intel HD,Windows,2.05,63000
+561,HP,Ultrabook,13.3,3200x1800,Intel Core M,16,512GB SSD,Intel HD,Windows,1.16,196500
+562,Lenovo,Notebook,17.3,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,3.4,299900
+563,Asus,Notebook,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,83900
+564,Dell,Ultrabook,13.3,3840x2160,Intel Core i5,8,128GB SSD,Intel UHD,Windows,1.21,159900
+565,Dell,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.93,95900
+566,Fujitsu,Notebook,15.6,1366x768,Intel Core i5,8,1TB HDD,Intel HD,Windows,2.2,73900
+567,Lenovo,Notebook,15.6,1920x1080,Intel Pentium Quad,4,500GB HDD,Intel HD,Windows,2.2,34400
+568,Lenovo,Notebook,14.0,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.02,99000
+569,HP,Workstation,17.3,1600x900,Intel Core i5,8,500GB HDD,Nvidia Quadro,Windows,3.14,186099
+570,HP,Notebook,14.0,1366x768,Intel Pentium Quad,8,2TB HDD,Intel HD,Windows,1.94,38900
+571,HP,Notebook,15.6,1920x1080,AMD A9 Series,6,256GB SSD,AMD Radeon,Windows,1.95,64900
+572,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.3,83000
+573,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.05,68500
+574,Mediacom,Notebook,14.0,1920x1080,Intel Atom x5,4,32GB SSD,Intel HD,Windows,1.4,24900
+575,Toshiba,Ultrabook,14.0,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.24,186500
+576,Lenovo,Gaming,17.3,1920x1080,Intel Core i7,32,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.6,266300
+577,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.14,272900
+578,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Linux,2.2,74901
+579,Mediacom,Notebook,14.0,1920x1080,Intel Celeron Quad,4,32GB SSD,Intel HD,Windows,1.45,38900
+580,Dell,Notebook,15.6,1366x768,Intel Core i5,8,500GB HDD,Intel HD,Windows,1.9,100852
+581,HP,Notebook,13.3,1920x1080,Intel Core i3,4,128GB SSD,Intel HD,Windows,1.49,71900
+582,Dell,Notebook,15.6,1920x1080,Intel Core i7,16,256GB SSD,Nvidia GeForce,Windows,1.93,153739
+583,Dell,Netbook,11.6,1366x768,Intel Celeron Dual,4,16GB Flash Storage,Intel HD,Chrome OS,1.26,29500
+584,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.5,234900
+585,HP,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.78,149800
+586,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,12,256GB SSD,Intel HD,Windows,1.4,167300
+587,Lenovo,Notebook,15.6,1366x768,Intel Core i7,12,1TB HDD,Intel HD,Windows,2.2,60900
+588,Asus,Gaming,17.3,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.73,177000
+589,Asus,2 in 1 Convertible,15.6,1366x768,Intel Core i5,8,1TB HDD,Intel HD,Windows,2.2,73900
+590,Lenovo,Notebook,15.6,1920x1080,AMD A12 Series,12,512GB SSD,AMD Radeon,Windows,2.2,94900
+591,Dell,2 in 1 Convertible,11.6,1366x768,Intel Core M,4,128GB SSD,Intel HD,Windows,1.39,60300
+592,Samsung,Notebook,15.6,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,169900
+593,Lenovo,Notebook,17.3,1920x1080,Intel Core i3,4,500GB HDD,Intel HD,No OS,2.8,52900
+594,Lenovo,Notebook,15.6,1366x768,Intel Core i3,8,1TB HDD,Intel HD,Windows,2.29,45900
+595,Lenovo,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.37,202500
+596,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.7,147400
+597,Dell,2 in 1 Convertible,12.5,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.34,167000
+598,Dell,Workstation,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,2.06,176300
+599,HP,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.84,121900
+600,HP,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.1,66848
+601,Acer,Notebook,14.0,1920x1080,Intel Celeron Quad,4,32GB Flash Storage,Intel HD,Windows,1.6,32900
+602,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.14,219900
+603,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,AMD Radeon,Linux,2.18,46500
+604,MSI,Gaming,15.6,3840x2160,Intel Core i7,16,256GB SSD +  2TB HDD,Nvidia GeForce,Windows,1.8,229900
+605,Toshiba,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,2.2,139900
+606,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,6,1TB HDD,Intel HD,Windows,2.4,56400
+607,Lenovo,2 in 1 Convertible,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,2.0,129900
+608,Acer,Notebook,14.0,1366x768,Intel Pentium Quad,4,128GB Flash Storage,Intel HD,Windows,1.6,34900
+609,Dell,Gaming,15.6,1920x1080,Intel Core i7,16,1TB HDD,Nvidia GeForce,Windows,2.59,87901
+610,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Linux,2.18,44390
+611,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Linux,2.25,35900
+612,Dell,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Linux,1.93,86900
+613,Asus,Gaming,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.0,116800
+614,Dell,Notebook,15.6,1920x1080,Intel Core i5,4,128GB SSD,AMD Radeon,Linux,2.18,56900
+615,HP,Ultrabook,15.6,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.84,138900
+616,MSI,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.94,226786
+617,Acer,2 in 1 Convertible,11.6,1366x768,Intel Celeron Quad,4,32GB Flash Storage,Intel HD,Chrome OS,1.25,37900
+618,HP,Notebook,14.0,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.31,112400
+619,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.65,146500
+620,Dell,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,AMD Radeon,Windows,2.2,77600
+621,Fujitsu,Notebook,15.6,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.2,79900
+622,HP,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.88,93200
+623,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.2,89900
+624,Mediacom,Notebook,14.0,1920x1080,Intel Atom x5,2,32GB Flash Storage,Intel HD,Windows,1.4,23900
+625,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,128GB SSD,Intel HD,No OS,2.2,46800
+626,Asus,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,6,1TB HDD,Intel HD,Windows,1.5,63901
+627,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.0,182000
+628,Asus,Ultrabook,14.0,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.1,190000
+629,Dell,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.62,147900
+630,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,256GB SSD,Intel UHD,Windows,1.8,82900
+631,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Nvidia GeForce,Windows,2.2,57900
+632,Asus,Notebook,15.6,1366x768,Intel Celeron Dual,8,1TB HDD,Intel HD,Windows,2.0,39900
+633,Asus,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,Nvidia GeForce,Windows,1.99,90662
+634,Dell,Ultrabook,13.3,3200x1800,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.23,186900
+635,Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual,2,32GB Flash Storage,Intel HD,Windows,1.42,24900
+636,Lenovo,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.37,175742
+637,Dell,Notebook,15.6,3840x2160,Intel Core i7,16,1TB SSD,Nvidia GeForce,Windows,2.06,239900
+638,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,110900
+639,HP,Notebook,17.0,1600x900,AMD A9 Series,8,1TB HDD,AMD Radeon,Windows,2.6,52090
+640,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.14,245000
+641,Asus,Gaming,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,No OS,2.5,116900
+642,Acer,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.4,45000
+643,Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.43,27400
+644,Acer,Ultrabook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel Graphics,Windows,1.8,91900
+645,Razer,Gaming,14.0,1920x1080,Intel Core i7,16,256GB SSD,Nvidia GeForce,Windows,1.95,259900
+646,Toshiba,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.2,121300
+647,Lenovo,Ultrabook,12.5,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.36,158400
+648,Asus,Gaming,17.3,1920x1080,Intel Core i7,32,512GB SSD,Nvidia GeForce,Windows,3.8,279900
+649,Acer,Gaming,15.6,1920x1080,Intel Core i5,8,1TB HDD,Nvidia GeForce,Linux,2.4,70900
+650,Dell,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.2,144990
+651,MSI,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,119180
+652,HP,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,No OS,1.86,36490
+653,Toshiba,Notebook,15.6,1920x1080,Intel Core i5,8,500GB HDD,Intel HD,Windows,2.0,106400
+654,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,2.2,91900
+655,Dell,Notebook,15.6,1920x1080,Intel Core i7,16,256GB SSD +  2TB HDD,AMD Radeon,Windows,2.2,113500
+656,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.31,119600
+657,Dell,Gaming,17.3,3840x2160,Intel Core i7,32,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.42,314737
+658,Dell,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.56,122900
+659,Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Windows,2.2,41900
+660,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.2,53500
+661,HP,Notebook,15.6,1920x1080,Intel Core i3,6,1TB HDD,AMD Radeon,Windows,2.04,53900
+662,MSI,Gaming,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,148677
+663,Toshiba,Notebook,15.6,1366x768,Intel Core i3,4,128GB SSD,Intel HD,Windows,2.1,49800
+664,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,Intel HD,Windows,2.06,95500
+665,HP,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,AMD Radeon,Windows,2.1,74500
+666,Toshiba,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.0,125800
+667,Acer,Notebook,15.6,1366x768,Intel Core i3,4,128GB SSD,Intel HD,Linux,2.1,41200
+668,Microsoft,Ultrabook,13.5,2256x1504,Intel Core i7,8,256GB SSD,Intel Iris,Windows,1.252,186785
+669,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,AMD Radeon,Windows,1.9,81795
+670,Lenovo,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.3,103400
+671,Lenovo,Notebook,15.6,1366x768,AMD E Series,4,128GB SSD,AMD Radeon,Windows,2.2,34900
+672,HP,2 in 1 Convertible,14.0,1920x1080,Intel Core i3,4,128GB SSD,Nvidia GeForce,Windows,1.63,69900
+673,MSI,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.4,129400
+674,Asus,Ultrabook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.1,113500
+675,HP,2 in 1 Convertible,11.6,1366x768,Intel Celeron Dual,8,64GB Flash Storage,Intel HD,Chrome OS,1.4,49500
+676,LG,Ultrabook,15.6,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.09,229900
+677,Acer,Gaming,15.6,1920x1080,Intel Core i5,16,256GB SSD,Nvidia GeForce,Windows,2.5,129900
+678,MSI,Gaming,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.2,99790
+679,Asus,Notebook,15.6,1366x768,Intel Celeron Dual,4,128GB SSD,Intel HD,Windows,1.86,41900
+680,Dell,Gaming,15.6,1920x1080,Intel Core i5,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.21,205100
+681,HP,Notebook,17.3,1920x1080,Intel Core i3,4,256GB SSD,AMD Radeon,Windows,2.5,69900
+682,Lenovo,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,512GB SSD,Intel UHD,Windows,1.19,149900
+683,Dell,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.49,281375
+684,HP,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,AMD Radeon,Windows,1.86,61261
+685,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,AMD Radeon,Windows,2.2,54567
+686,HP,Notebook,17.3,1920x1080,AMD A10 Series,6,2TB HDD,AMD Radeon,Windows,2.65,56900
+687,Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Windows,2.1,31800
+688,Acer,Notebook,14.0,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Chrome OS,1.45,37500
+689,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.7,69900
+690,HP,Workstation,17.3,1920x1080,Intel Core i7,8,500GB HDD,Nvidia Quadro,Windows,3.14,190799
+691,Lenovo,2 in 1 Convertible,14.0,2560x1440,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.42,259000
+692,Toshiba,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.5,97300
+693,Acer,Netbook,11.6,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.4,26900
+694,Lenovo,2 in 1 Convertible,14.0,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.38,174900
+695,Asus,2 in 1 Convertible,12.5,1920x1080,Intel Core M,4,64GB Flash Storage,Intel HD,Chrome OS,1.2,66900
+696,Toshiba,Ultrabook,13.3,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.36,187700
+697,HP,Notebook,15.6,1920x1080,Intel Core i7,4,500GB HDD,AMD Radeon,Windows,2.1,68900
+698,Dell,Gaming,15.6,1920x1080,Intel Core i5,8,1TB HDD,Nvidia GeForce,Windows,2.56,81900
+699,Lenovo,Notebook,15.6,1920x1080,AMD A9 Series,4,256GB SSD,AMD Radeon,Windows,2.2,39900
+700,Lenovo,Notebook,15.6,1366x768,AMD A12 Series,8,1TB HDD,AMD Radeon,Windows,2.2,42900
+701,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD +  1TB HDD,Intel HD,Windows,2.1,62145
+702,Lenovo,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,No OS,1.9,45000
+703,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.18,79500
+704,Acer,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel UHD,Windows,1.6,99900
+705,Lenovo,Workstation,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia Quadro,Windows,2.18,185500
+706,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.8,119100
+707,HP,Notebook,17.3,1920x1080,AMD A10 Series,6,2TB HDD,AMD Radeon,Windows,2.71,65501
+708,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,124900
+709,Dell,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Linux,1.64,108900
+710,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,Intel HD,Linux,1.98,72600
+711,Asus,Notebook,14.0,1920x1080,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.5,29800
+712,Dell,Notebook,15.6,1920x1080,Intel Core i5,16,512GB SSD,Intel HD,Windows,1.93,142666
+713,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,1.87,85707
+714,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.9,117900
+715,Lenovo,Notebook,15.6,1366x768,AMD A6 Series,4,500GB HDD,AMD Radeon,Windows,2.19,29800
+716,Mediacom,Notebook,14.0,1920x1200,Intel Atom Z8350,4,32GB HDD,Intel HD,Windows,1.4,26500
+717,HP,Notebook,17.3,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.63,120000
+718,Lenovo,Ultrabook,14.0,2560x1440,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.17,168664
+719,HP,2 in 1 Convertible,13.3,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.58,83660
+720,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.32,149900
+721,Dell,Gaming,17.3,3840x2160,Intel Core i7,32,1TB SSD +  1TB HDD,Nvidia GeForce,Windows,4.36,365940
+722,MSI,Gaming,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,134848
+723,Lenovo,Notebook,15.6,1366x768,Intel Core i5,4,1TB HDD,Intel HD,No OS,1.9,48990
+724,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,AMD Radeon,Windows,2.2,71900
+725,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i3,4,1TB HDD,Intel HD,Windows,1.71,64900
+726,Dell,Notebook,15.6,1366x768,Intel Core i5,8,1TB HDD,AMD Radeon,Linux,2.32,58952
+727,HP,Notebook,15.6,1920x1080,AMD A9 Series,4,1TB HDD,AMD Radeon,Windows,2.1,48900
+728,Acer,Gaming,17.3,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.2,193500
+729,Dell,Notebook,15.6,1366x768,Intel Core i5,12,1TB HDD,Intel HD,Windows,2.25,64900
+730,HP,Notebook,15.6,1920x1080,AMD A9 Series,6,128GB SSD +  1TB HDD,AMD Radeon,Windows,2.1,65000
+731,Acer,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.4,55900
+732,Lenovo,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.44,96000
+733,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,4,1TB HDD,Intel HD,Windows,1.85,77900
+734,HP,Workstation,15.6,1920x1080,Intel Core i7,16,256GB SSD,Nvidia Quadro,Windows,2.6,241900
+735,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,1TB HDD,Intel UHD,Windows,1.55,65900
+736,MSI,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,1.8,209448
+737,Acer,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.4,41080
+738,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.0,120700
+739,Dell,Notebook,15.6,1366x768,Intel Core i3,8,256GB SSD,Intel HD,Windows,2.0,66500
+740,Toshiba,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.25,153500
+741,Lenovo,2 in 1 Convertible,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.7,99900
+742,Lenovo,Workstation,15.6,3840x2160,Intel Core i7,16,1TB SSD,Nvidia Quadro,Windows,2.5,329900
+743,Acer,Notebook,14.0,1366x768,Intel Celeron Dual,2,32GB Flash Storage,Intel HD,Chrome OS,1.68,33000
+744,Samsung,Ultrabook,13.3,1920x1080,Intel Core i7,16,256GB SSD,Intel HD,Windows,0.81,164900
+745,HP,Notebook,15.6,1920x1080,Intel Core i3,8,256GB SSD,Intel HD,Windows,1.86,53900
+746,Dell,Notebook,14.0,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.6,112671
+747,Lenovo,Netbook,11.6,1366x768,Intel Celeron Dual,4,128GB SSD,Intel HD,Windows,1.4,47500
+748,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.84,190000
+749,Asus,Notebook,15.6,1366x768,Intel Core i5,4,1TB HDD,Nvidia GeForce,No OS,2.45,57900
+750,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i5,4,1GB SSD,Intel HD,Windows,1.7,109600
+751,Asus,Notebook,15.6,1366x768,Intel Core i7,4,256GB SSD,Intel HD,Windows,2.37,84990
+752,Lenovo,2 in 1 Convertible,13.3,3200x1800,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.3,119900
+753,HP,Notebook,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,109900
+754,HP,Workstation,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,2.59,156100
+755,Dell,Gaming,15.6,3840x2160,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.42,286899
+756,Acer,Notebook,15.6,1366x768,Intel Core i5,4,256GB SSD,Intel HD,Windows,2.1,59900
+757,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,104800
+758,Dell,Ultrabook,12.5,1920x1080,Intel Core i7,16,256GB SSD,Intel HD,Windows,1.18,185900
+759,Google,Ultrabook,12.3,2400x1600,Intel Core i5,8,256GB SSD,Intel HD,Chrome OS,1.1,155900
+760,Asus,Ultrabook,13.3,3200x1800,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.2,112900
+761,Dell,Notebook,13.3,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,1.65,84900
+762,Acer,Notebook,13.3,1366x768,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.6,65500
+763,Asus,Notebook,17.3,1366x768,Intel Pentium Quad,4,1TB HDD,Nvidia GeForce,Windows,2.8,47034
+764,Dell,Gaming,15.6,3840x2160,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.72,109900
+765,Samsung,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.31,159900
+766,Acer,Notebook,15.6,1366x768,Intel Pentium Quad,4,1TB HDD,Intel HD,Linux,2.1,29800
+767,Dell,Notebook,15.6,1920x1080,Intel Core i7,16,256GB SSD,AMD Radeon,Windows,2.3,118127
+768,Samsung,2 in 1 Convertible,15.0,1920x1080,Intel Core i7,16,256GB SSD,AMD Radeon,Windows,1.71,179900
+769,Toshiba,Notebook,14.0,1366x768,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.75,102000
+770,Dell,Gaming,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.62,109900
+771,HP,Ultrabook,12.5,1366x768,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.26,124400
+772,Asus,2 in 1 Convertible,15.6,1920x1080,Intel Core i7,12,2TB HDD,Nvidia GeForce,Windows,2.3,83900
+773,Lenovo,Notebook,15.6,3840x2160,Intel Core i7,16,512GB SSD,Nvidia Quadro,Windows,2.5,237000
+774,Acer,Notebook,14.0,1920x1080,Intel Core i3,4,128GB SSD,Intel HD,Windows,1.8,63600
+775,Razer,Gaming,14.0,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,1.95,289900
+776,Asus,Notebook,15.6,1920x1080,Intel Pentium Dual,8,128GB SSD,Intel HD,Windows,2.0,58190
+777,Dell,Gaming,17.3,1920x1080,Intel Core i7,32,1TB SSD +  1TB HDD,Nvidia GeForce,Windows,4.42,358880
+778,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.3,235000
+779,Toshiba,Ultrabook,14.0,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,1.47,176400
+780,Lenovo,Notebook,15.6,1366x768,Intel Celeron Quad,8,1TB HDD,Intel HD,No OS,2.2,32900
+781,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.7,229900
+782,MSI,Gaming,14.0,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,1.6,189100
+783,MSI,Gaming,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,108900
+784,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,4,1TB HDD,Nvidia GeForce,Windows,2.4,99900
+785,Acer,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.2,229900
+786,Dell,Gaming,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.62,98500
+787,Asus,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.24,133900
+788,Vero,Notebook,14.0,1920x1080,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.22,20290
+789,Lenovo,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.37,197000
+790,Lenovo,2 in 1 Convertible,15.6,1920x1080,Intel Core i5,8,256GB SSD,AMD Radeon,Windows,2.08,95900
+791,Apple,Ultrabook,12.0,2304x1440,Intel Core M,8,512GB Flash Storage,Intel HD,Mac OS,0.92,116500
+792,Lenovo,2 in 1 Convertible,14.0,2560x1440,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.42,233000
+793,Asus,Notebook,14.0,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.63,29900
+794,Dell,Notebook,15.6,1366x768,Intel Core i5,8,128GB SSD,Intel HD,Windows,1.95,81000
+795,Lenovo,2 in 1 Convertible,13.9,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.38,134900
+796,Dell,Notebook,15.6,1920x1080,Intel Core i3,8,256GB SSD,AMD Radeon,Windows,2.0,73900
+797,HP,Workstation,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,3.14,206490
+798,Asus,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.37,109900
+799,Dell,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.29,149900
+800,Dell,Notebook,15.6,3840x2160,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.06,174900
+801,Dell,Netbook,11.6,1366x768,Intel Pentium Quad,4,128GB SSD,Intel HD,Windows,1.63,74400
+802,HP,Netbook,12.5,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.26,138900
+803,Toshiba,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.1,78000
+804,HP,Notebook,15.6,1366x768,AMD A12 Series,8,2TB HDD,AMD Radeon,Windows,2.04,62900
+805,Dell,Gaming,15.6,3840x2160,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.62,167900
+806,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Nvidia GeForce,Windows,2.4,60900
+807,HP,Gaming,17.3,1920x1080,Intel Core i7,12,1TB HDD,AMD Radeon,Windows,3.74,174900
+808,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.9,241500
+809,Samsung,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,0.81,149900
+810,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,1.98,96100
+811,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,AMD Radeon,Windows,2.18,78981
+812,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.32,185900
+813,Razer,Ultrabook,12.5,3840x2160,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.29,179900
+814,HP,Netbook,11.6,1366x768,Intel Celeron Dual,4,16GB Flash Storage,Intel HD,Chrome OS,1.23,38500
+815,Dell,Gaming,17.3,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.36,250502
+816,Dell,Notebook,14.0,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.76,75500
+817,Lenovo,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.1,48990
+818,Toshiba,Ultrabook,14.0,1366x768,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.25,109000
+819,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.13,249900
+820,MSI,Gaming,15.6,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.4,119900
+821,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i5,8,256GB Flash Storage,Intel HD,Windows,1.13,187500
+822,Toshiba,Notebook,14.0,1366x768,Intel Pentium Dual,4,128GB SSD,Intel HD,Windows,1.75,49900
+823,Asus,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.1,135800
+824,Dell,Notebook,14.0,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,1.76,58500
+825,Acer,Netbook,11.6,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Chrome OS,1.35,35500
+826,Acer,Notebook,14.0,1920x1080,Intel Core i3,8,128GB SSD,Intel HD,Windows,1.5,61900
+827,Lenovo,Ultrabook,14.0,2560x1440,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.1,209900
+828,Asus,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Nvidia GeForce,Linux,2.1,51900
+829,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.7,118600
+830,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.32,165000
+831,Dell,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.21,277463
+832,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.9,241900
+833,Toshiba,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.0,66900
+834,Lenovo,Notebook,14.0,1366x768,Intel Celeron Quad,4,16GB Flash Storage,Intel HD,Chrome OS,1.5,32500
+835,Asus,Notebook,15.6,1920x1080,Intel Core i5,8,128GB HDD,Intel HD,Windows,2.3,59000
+836,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.73,179900
+837,Dell,Gaming,17.3,1920x1080,Intel Core i7,32,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.42,307289
+838,HP,Notebook,17.3,1600x900,Intel Core i5,8,1TB HDD,Nvidia GeForce,Windows,2.63,91000
+839,Dell,Notebook,15.6,1366x768,Intel Core i5,8,128GB SSD,Intel HD,Windows,2.18,71399
+840,HP,Ultrabook,14.0,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.54,187000
+841,Dell,Notebook,15.6,1920x1080,Intel Core i7,4,256GB SSD,AMD Radeon,Windows,2.18,73900
+842,HP,2 in 1 Convertible,11.6,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Chrome OS,1.4,61500
+843,Asus,Ultrabook,13.3,1920x1080,Intel Core i5,8,512GB SSD,Nvidia GeForce,Windows,1.45,102600
+844,HP,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.28,227700
+845,HP,Ultrabook,14.0,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.54,146800
+846,HP,Notebook,15.6,1366x768,Intel Celeron Dual,4,128GB SSD,Intel HD,No OS,1.86,29900
+847,Asus,Gaming,15.6,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.1,189900
+848,Dell,Notebook,17.3,1920x1080,Intel Core i7,8,1TB HDD,AMD Radeon,Linux,2.83,86500
+849,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,1.96,190300
+850,Asus,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.3,78700
+851,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,128GB SSD,Intel HD,Windows,1.9,94500
+852,Asus,Notebook,15.6,1366x768,Intel Pentium Quad,4,1TB HDD,Intel HD,Windows,2.0,44900
+853,HP,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.28,255900
+854,Dell,Notebook,13.3,1920x1080,Intel Core i5,8,1TB HDD,Intel HD,Windows,1.62,64900
+855,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Intel HD,No OS,2.2,46900
+856,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,Intel HD,Windows,2.3,85066
+857,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,AMD Radeon,Windows,1.84,134900
+858,Toshiba,Notebook,13.3,1920x1080,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.05,128500
+859,Lenovo,Gaming,15.6,1920x1080,Intel Core i5,8,1TB HDD,Nvidia GeForce,No OS,2.5,101700
+860,Dell,Ultrabook,13.3,3200x1800,Intel Core i7,16,512GB SSD,Intel Iris,Windows,1.29,224000
+861,HP,Notebook,15.6,1920x1080,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.07,91000
+862,Toshiba,Ultrabook,13.3,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.2,109500
+863,Lenovo,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.37,195000
+864,Acer,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.56,90200
+865,Dell,Workstation,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia Quadro,Windows,2.23,177800
+866,Lenovo,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.38,105500
+867,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,AMD Radeon,No OS,2.2,47900
+868,Toshiba,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,2.0,138800
+869,Lenovo,Notebook,13.3,1920x1080,Intel Core i3,4,1GB SSD,Intel HD,Windows,1.44,73500
+870,Samsung,Ultrabook,15.0,1920x1080,Intel Core i7,16,256GB SSD,Nvidia GeForce,Windows,1.23,184900
+871,Dell,Ultrabook,12.5,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.6,169000
+872,Asus,Notebook,15.6,1366x768,Intel Pentium Quad,4,1TB HDD,Intel HD,Linux,2.0,39899
+873,Xiaomi,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,1.28,93500
+874,Dell,Notebook,15.6,1920x1080,Intel Core i5,4,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.18,91250
+875,HP,Notebook,15.6,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Windows,2.04,83900
+876,HP,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.28,170000
+877,HP,2 in 1 Convertible,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.3,68480
+878,Asus,Notebook,14.1,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.65,34800
+879,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.2,66900
+880,Dell,Notebook,15.6,1366x768,Intel Pentium Quad,4,500GB HDD,Intel HD,Windows,2.2,36900
+881,HP,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.28,179900
+882,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,AMD Radeon,Linux,2.18,45570
+883,Asus,Gaming,17.3,1920x1080,Intel Core i5,12,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,136990
+884,Acer,Netbook,11.6,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Chrome OS,1.25,29700
+885,Lenovo,Notebook,17.3,1600x900,AMD A4 Series,4,500GB HDD,AMD Radeon,Windows,2.8,37900
+886,HP,Notebook,14.0,1920x1080,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.95,126500
+887,HP,2 in 1 Convertible,13.3,3200x1800,Intel Core i7,16,256GB SSD,Intel HD,Windows,1.42,139900
+888,Samsung,Ultrabook,15.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.17,169900
+889,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.32,179900
+890,MSI,Gaming,17.3,3840x2160,Intel Core i7,16,512GB SSD +  2TB HDD,Nvidia GeForce,Windows,2.43,264900
+891,Toshiba,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.05,147500
+892,Dell,Gaming,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Linux,2.62,92900
+893,HP,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.04,90000
+894,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,AMD Radeon,Windows,2.18,61400
+895,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,500GB HDD,Intel HD,Windows,1.9,93500
+896,Dell,2 in 1 Convertible,13.3,3200x1800,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.24,201310
+897,Asus,Gaming,17.3,1920x1080,Intel Core i7,32,256GB SSD +  256GB SSD,Nvidia GeForce,Windows,3.58,127900
+898,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,16,256GB SSD,Intel HD,Windows,1.22,164900
+899,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB Flash Storage,Intel HD,Windows,1.13,204900
+900,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,512GB SSD,Intel HD,Windows,1.95,196299
+901,LG,Ultrabook,15.6,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.08,209900
+902,HP,Netbook,12.5,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.26,148300
+903,Acer,Notebook,15.6,1920x1080,Intel Celeron Dual,4,16GB Flash Storage,Intel HD,Chrome OS,2.2,35900
+904,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.6,78900
+905,LG,Ultrabook,14.0,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,0.98,189900
+906,Dell,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.6,120500
+907,HP,Ultrabook,12.5,3840x2160,Intel Core M,8,240GB SSD,Intel HD,Windows,1.09,310000
+908,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,6,256GB SSD,Nvidia GeForce,Windows,2.2,78900
+909,HP,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.04,101899
+910,Acer,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.4,49900
+911,Lenovo,Notebook,13.3,1920x1080,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.44,88100
+912,HP,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.49,96000
+913,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,159900
+914,Dell,Gaming,15.6,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.6,134900
+915,MSI,Gaming,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,111991
+916,Dell,Notebook,15.6,1366x768,Intel Core i5,4,1TB HDD,AMD Radeon,Windows,2.18,68499
+917,HP,Ultrabook,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD Radeon,Windows,1.84,129699
+918,HP,Ultrabook,13.3,3200x1800,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.39,114900
+919,Toshiba,Notebook,15.6,1920x1080,Intel Core i7,16,256GB SSD,Nvidia GeForce,Windows,2.4,197500
+920,Lenovo,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,512GB SSD,Intel HD,Windows,1.37,182500
+921,Dell,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.95,72990
+922,Lenovo,Ultrabook,12.5,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.36,165000
+923,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.31,116500
+924,Dell,Notebook,15.6,1366x768,Intel Core i5,4,1TB HDD,Intel HD,Windows,2.18,70806
+925,HP,Notebook,14.0,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.95,114900
+926,Lenovo,Notebook,15.6,1366x768,Intel Pentium Quad,4,1TB HDD,Intel HD,Windows,2.2,30900
+927,HP,Ultrabook,12.5,1920x1080,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.26,157900
+928,HP,Notebook,15.6,1366x768,Intel Celeron Dual,4,1TB HDD,Intel HD,No OS,1.86,28890
+929,Lenovo,2 in 1 Convertible,13.3,3200x1800,Intel Core i7,16,1TB SSD,Intel Iris,Windows,1.3,179900
+930,Toshiba,Notebook,14.0,1920x1080,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.47,110500
+931,HP,Netbook,12.5,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.26,166900
+932,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.18,55860
+933,MSI,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,119900
+934,Dell,Ultrabook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.36,163900
+935,Dell,Gaming,17.3,2560x1440,Intel Core i7,16,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.36,275800
+936,HP,Gaming,17.3,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.75,139900
+937,Asus,Notebook,17.3,1600x900,Intel Pentium Quad,4,1TB HDD,Nvidia GeForce,Windows,2.8,53000
+938,Acer,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.23,61900
+939,Toshiba,Notebook,15.6,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.2,111900
+940,Lenovo,2 in 1 Convertible,11.3,1920x1080,Intel Core M,8,256GB SSD,Intel HD,Windows,1.1,129900
+941,Lenovo,Gaming,15.6,1920x1080,AMD FX 8800P,16,512GB SSD +  1TB HDD,AMD Radeon,Windows,2.5,99900
+942,Dell,Ultrabook,12.5,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.36,147220
+943,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,No OS,2.2,68500
+944,Dell,Notebook,17.3,1600x900,Intel Core i3,4,1TB HDD,AMD Radeon,Windows,2.36,65900
+945,Acer,Notebook,14.0,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Chrome OS,1.68,34900
+946,HP,Workstation,15.6,1920x1080,Intel Core i7,8,8GB SSD,Nvidia Quadro,Windows,2.0,224900
+947,Dell,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.36,177500
+948,Toshiba,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.2,146000
+949,Asus,2 in 1 Convertible,12.5,1920x1080,Intel Core M,8,64GB Flash Storage,Intel HD,Chrome OS,1.2,115900
+950,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.7,148899
+951,Dell,Gaming,17.3,3840x2160,Intel Core i7,16,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.36,315400
+952,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.24,189900
+953,HP,2 in 1 Convertible,11.6,1366x768,Intel Pentium Quad,4,256GB SSD,Intel HD,Windows,1.45,77500
+954,Dell,Ultrabook,13.3,3200x1800,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.3,126800
+955,Acer,2 in 1 Convertible,11.6,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Chrome OS,1.25,38900
+956,Toshiba,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.2,153500
+957,Lenovo,Ultrabook,12.5,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.36,176000
+958,Acer,Notebook,15.6,1920x1080,Intel Core i5,12,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.4,100900
+959,Toshiba,Ultrabook,12.5,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.1,179000
+960,HP,Notebook,15.6,1366x768,Intel Core i5,8,1TB HDD,Nvidia GeForce,Windows,2.04,84650
+961,Dell,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,AMD Radeon,Linux,2.25,46562
+962,Dell,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.9,82500
+963,HP,Notebook,15.6,1920x1080,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.04,68500
+964,Dell,Gaming,17.3,1920x1080,Intel Core i7,32,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.42,314900
+965,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,6,256GB SSD,Nvidia GeForce,Windows,2.4,69500
+966,Dell,2 in 1 Convertible,13.3,3200x1800,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.22,189900
+967,Dell,Ultrabook,14.0,2560x1440,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.5,196298
+968,Dell,Gaming,17.3,1920x1080,Intel Core i7,32,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.42,280000
+969,Toshiba,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.95,118000
+970,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.73,204990
+971,HP,Notebook,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.04,97900
+972,Lenovo,Notebook,14.0,1366x768,Intel Core i5,4,508GB Hybrid,Intel HD,Windows,1.7,100200
+973,Asus,2 in 1 Convertible,15.6,3840x2160,Intel Core i7,16,512GB SSD +  2TB HDD,Nvidia GeForce,Windows,2.3,179900
+974,HP,Notebook,15.6,1366x768,Intel Core i7,6,1TB HDD,Intel HD,Windows,2.04,57900
+975,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.99,174900
+976,Dell,2 in 1 Convertible,15.6,1920x1080,Intel Core i7,12,512GB SSD,Intel HD,Windows,2.19,129900
+977,Toshiba,Notebook,13.3,1920x1080,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.2,119500
+978,Lenovo,Notebook,15.6,1920x1080,AMD A12 Series,6,256GB SSD,AMD Radeon,Windows,2.2,54900
+979,Fujitsu,Notebook,15.6,1366x768,Intel Core i5,4,256GB SSD,Intel HD,Windows,2.3,64900
+980,Toshiba,Notebook,14.0,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.75,91500
+981,Dell,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,AMD Radeon,Windows,2.25,59900
+982,HP,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,Intel HD,Windows,2.04,80600
+983,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,118900
+984,Dell,Notebook,15.6,1366x768,Intel Core i7,8,1TB HDD,AMD Radeon,Windows,2.36,74900
+985,Dell,Notebook,14.0,1920x1080,Intel Core i5,8,128GB SSD,Intel HD,Windows,1.6,111900
+986,HP,Netbook,12.5,1920x1080,Intel Core M,8,512GB SSD,Intel HD,Windows,0.97,190800
+987,HP,Notebook,15.6,1920x1080,Intel Core i3,4,128GB SSD +  1TB HDD,AMD Radeon,Windows,2.1,49900
+988,Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual,4,128GB SSD,Intel HD,No OS,1.9,27062
+989,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.3,134900
+990,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.68,88900
+991,Asus,Notebook,13.3,3200x1800,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.4,115000
+992,HP,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.11,134900
+993,Acer,Notebook,15.6,1366x768,Intel Pentium Quad,4,500GB HDD,Intel HD,Windows,2.4,38000
+994,Asus,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,179900
+995,HP,Ultrabook,14.0,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.48,208900
+996,Acer,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,126000
+997,HP,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.34,118900
+998,Dell,Notebook,15.6,1366x768,Intel Core i3,4,128GB SSD,Intel HD,Windows,2.18,54700
+999,HP,Notebook,14.0,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.64,77900
+1000,Toshiba,Notebook,13.3,1920x1080,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.2,119500
+1001,HP,Notebook,14.0,1366x768,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.48,109999
+1002,HP,Notebook,14.0,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.95,120500
+1003,HP,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.43,144900
+1004,HP,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,1.64,104926
+1005,HP,Notebook,14.0,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,1.64,68400
+1006,Dell,Gaming,15.6,1920x1080,Intel Core i5,8,1TB Hybrid,Nvidia GeForce,Windows,2.65,94900
+1007,HP,Ultrabook,12.5,1920x1080,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.26,153900
+1008,HP,Notebook,14.0,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.48,159000
+1009,HP,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.54,188721
+1010,HP,Notebook,13.3,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,1.49,80000
+1011,Toshiba,Notebook,13.3,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.5,121000
+1012,HP,Notebook,15.6,1366x768,Intel Core i3,4,256GB SSD,Intel HD,Windows,2.04,76999
+1013,Lenovo,Notebook,17.3,3840x2160,Intel Core i7,16,512GB SSD,Nvidia Quadro,Windows,2.4,296800
+1014,Toshiba,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.47,149000
+1015,HP,Notebook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.43,222900
+1016,Dell,2 in 1 Convertible,15.6,1920x1080,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.08,79599
+1017,Toshiba,Ultrabook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.2,159000
+1018,HP,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.11,114900
+1019,HP,Notebook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,1.64,118543
+1020,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,500GB HDD,Intel HD,Windows,2.09,104644
+1021,HP,Ultrabook,12.5,1366x768,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.26,155900
+1022,HP,Notebook,14.0,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.31,118900
+1023,HP,Notebook,14.0,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.95,106000
+1024,Dell,Ultrabook,13.3,3200x1800,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.29,162400
+1025,HP,Notebook,17.3,1920x1080,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.63,108000
+1026,HP,Notebook,14.0,1366x768,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.64,97300
+1027,Acer,Notebook,15.6,1366x768,AMD A9 Series,6,1TB HDD,AMD Radeon,Windows,2.1,40900
+1028,MSI,Gaming,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,119180
+1029,HP,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.95,119500
+1030,HP,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.84,122899
+1031,HP,Ultrabook,12.5,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.26,134900
+1032,HP,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.04,74200
+1033,Toshiba,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.47,172500
+1034,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.09,106295
+1035,HP,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.64,101051
+1036,Lenovo,2 in 1 Convertible,15.6,1920x1080,Intel Core i7,4,256GB SSD,Intel HD,Windows,1.8,84700
+1037,Vero,Notebook,14.0,1366x768,Intel Atom X5,2,32GB Flash Storage,Intel HD,Windows,1.45,21080
+1038,Toshiba,Notebook,15.6,1920x1080,Intel Core i7,16,256GB SSD,Nvidia GeForce,Windows,2.4,142500
+1039,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.3,104960
+1040,HP,Notebook,14.0,1920x1080,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.54,100000
+1041,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD +  500GB HDD,Intel HD,Windows,1.84,210334
+1042,HP,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.43,146900
+1043,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.78,154564
+1044,Lenovo,Gaming,17.3,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.6,228999
+1045,Asus,Netbook,11.6,1366x768,Intel Celeron Dual,4,16GB Flash Storage,Intel HD,Chrome OS,1.2,28790
+1046,Lenovo,Notebook,14.0,2560x1440,Intel Core i7,16,256GB SSD,Intel HD,Windows,1.1,262000
+1047,HP,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,1.91,97900
+1048,Dell,2 in 1 Convertible,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.3,109400
+1049,HP,Notebook,15.6,1366x768,Intel Core i5,4,256GB SSD,Intel HD,Windows,2.04,97900
+1050,Dell,Ultrabook,13.3,3200x1800,Intel Core i7,16,1TB SSD,Intel HD,Windows,1.2,225400
+1051,HP,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.31,70515
+1052,HP,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,No OS,1.96,49900
+1053,Acer,Notebook,15.6,1366x768,AMD A8 Series,8,1TB HDD,AMD Radeon,Windows,2.4,44900
+1054,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,12,256GB SSD,Intel HD,Windows,1.6,129900
+1055,MSI,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.94,181900
+1056,HP,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,2.04,107000
+1057,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,1TB HDD,Nvidia GeForce,No OS,4.0,99800
+1058,Dell,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Intel HD,Windows,2.25,55900
+1059,Dell,Notebook,15.6,1920x1080,Intel Core i7,16,2TB HDD,AMD Radeon,Windows,2.32,98999
+1060,MSI,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,1.8,192900
+1061,Dell,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.29,145800
+1062,Asus,Gaming,17.3,1920x1080,Intel Core i7,64,1TB SSD,Nvidia GeForce,Windows,3.58,397500
+1063,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.62,79801
+1064,Dell,Gaming,15.6,3840x2160,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.21,132900
+1065,Apple,Ultrabook,12.0,2304x1440,Intel Core M,8,256GB Flash Storage,Intel HD,Mac OS,0.92,130000
+1066,Dell,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.06,48198
+1067,HP,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.31,119900
+1068,HP,Ultrabook,12.5,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.26,119900
+1069,HP,Notebook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.49,109000
+1070,Lenovo,Ultrabook,12.5,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.3,171349
+1071,Lenovo,Notebook,17.3,1600x900,Intel Core i5,8,1TB HDD,AMD Radeon,Windows,3.0,65900
+1072,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Nvidia GeForce,Windows,2.3,97700
+1073,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.78,249900
+1074,Lenovo,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.1,54000
+1075,HP,Notebook,15.6,1920x1080,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.31,94000
+1076,Lenovo,Ultrabook,12.5,2560x1440,Intel Core M,8,512GB SSD,Intel HD,Windows,0.99,139900
+1077,Lenovo,Gaming,17.3,1920x1080,Intel Core i7,32,512GB SSD +  1TB Hybrid,Nvidia GeForce,Windows,4.6,324000
+1078,Lenovo,2 in 1 Convertible,10.1,1920x1200,Intel Atom x5,4,64GB Flash Storage,Intel HD,Windows,0.69,64627
+1079,HP,Ultrabook,13.3,3840x2160,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.3,204900
+1080,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.18,75000
+1081,HP,Notebook,14.0,1920x1080,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.54,103099
+1082,HP,Workstation,15.6,1920x1080,Intel Core i7,8,256GB SSD,AMD FirePro,Windows,1.9,149500
+1083,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,1GB SSD,Intel HD,Windows,1.7,119900
+1084,HP,Notebook,13.3,3200x1800,Intel Pentium Dual,4,32GB Flash Storage,Intel HD,Chrome OS,1.29,61500
+1085,Acer,Notebook,15.6,1366x768,AMD A8 Series,4,500GB HDD,AMD Radeon,Windows,2.4,38700
+1086,Dell,Notebook,15.6,1366x768,Intel Pentium Quad,4,500GB HDD,Intel HD,Linux,2.2,39349
+1087,HP,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,No OS,1.86,34599
+1088,Asus,Gaming,17.3,1920x1080,Intel Core i7,8,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,159900
+1089,Dell,Ultrabook,13.3,1920x1080,Intel Core i5,4,256GB SSD,AMD Radeon,Windows,1.4,81835
+1090,HP,Netbook,12.5,1366x768,Intel Core i5,4,128GB SSD,Intel HD,Windows,2.4,159900
+1091,Acer,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.4,79900
+1092,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,AMD Radeon,Windows,2.36,63880
+1093,MSI,Gaming,17.3,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.6,159900
+1094,HP,Notebook,15.6,1366x768,Intel Pentium Quad,4,1TB HDD,Intel HD,Windows,1.96,50000
+1095,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.3,229900
+1096,Dell,Ultrabook,12.5,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,1.5,113515
+1097,Dell,Ultrabook,12.5,1366x768,Intel Core i3,4,128GB SSD,Intel HD,Windows,1.5,116697
+1098,Acer,Notebook,15.6,1366x768,Intel Celeron Dual,4,16GB SSD,Intel HD,Chrome OS,2.2,20900
+1099,HP,Workstation,17.3,1920x1080,Intel Core i7,8,1TB HDD,AMD FirePro,Windows,3.0,289900
+1100,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.4,119900
+1101,Dell,Ultrabook,12.5,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.5,141310
+1102,MSI,Gaming,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.9,151119
+1103,Lenovo,2 in 1 Convertible,15.6,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Windows,2.1,86700
+1104,HP,Notebook,15.6,1920x1080,AMD A6 Series,4,1TB HDD,AMD Radeon,Windows,2.1,39800
+1105,Asus,Gaming,15.6,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.59,133900
+1106,HP,Notebook,13.3,3200x1800,Intel Core M,8,256GB SSD,Intel HD,Windows,1.16,169900
+1107,Dell,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,AMD Radeon,Windows,2.24,76915
+1108,Lenovo,Notebook,15.6,1366x768,Intel Core i3,4,128GB SSD,Intel HD,Windows,2.1,42900
+1109,HP,Ultrabook,13.3,1920x1080,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.16,196900
+1110,Lenovo,2 in 1 Convertible,10.1,1920x1200,Intel Atom x5,4,64GB Flash Storage,Intel HD,Android,0.69,54900
+1111,Dell,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel Iris,Windows,1.23,137900
+1112,Lenovo,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB Hybrid,Nvidia GeForce,Windows,4.6,274999
+1113,Razer,Ultrabook,12.5,3840x2160,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.25,102900
+1114,Toshiba,Ultrabook,13.3,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.05,222600
+1115,Asus,Gaming,17.3,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.52,131249
+1116,Vero,Notebook,13.3,1920x1080,Intel Atom X5,4,32GB Flash Storage,Intel HD,Windows,1.35,19600
+1117,HP,Notebook,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.16,169000
+1118,HP,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.43,151300
+1119,Dell,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Linux,2.09,52363
+1120,Asus,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.0,43500
+1121,Lenovo,2 in 1 Convertible,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.8,166900
+1122,Lenovo,2 in 1 Convertible,10.1,1920x1200,Intel Atom x5,4,64GB Flash Storage,Intel HD,Windows,0.69,47900
+1123,HP,Ultrabook,12.5,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.26,189500
+1124,Lenovo,Gaming,15.6,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,No OS,2.4,98900
+1125,HP,Gaming,17.3,1920x1080,Intel Core i5,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.35,112900
+1126,HP,Notebook,15.6,1366x768,Intel Core i7,8,2TB HDD,Intel HD,Windows,2.04,62900
+1127,Lenovo,2 in 1 Convertible,14.0,1920x1080,Intel Core i7,8,512GB SSD,Nvidia Quadro,Windows,1.8,205038
+1128,Asus,Notebook,14.0,1366x768,Intel Celeron Dual,4,32GB Flash Storage,Intel HD,Windows,1.5,27800
+1129,HP,Ultrabook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.84,75200
+1130,Acer,Notebook,15.6,1920x1080,Intel Core i5,4,1TB HDD,Nvidia GeForce,Windows,2.23,61600
+1131,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,16,1TB Hybrid,AMD Radeon,Windows,2.5,109900
+1132,HP,Workstation,17.3,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,3.0,394940
+1133,Dell,Notebook,15.6,1366x768,Intel Core i5,8,1TB HDD,AMD Radeon,Windows,2.5,78400
+1134,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,3.78,239900
+1135,HP,Ultrabook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.88,217172
+1136,Lenovo,2 in 1 Convertible,14.0,2560x1440,Intel Core i7,16,512GB SSD,Intel HD,Windows,2.8,244000
+1137,MSI,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.4,114280
+1138,HP,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.48,162900
+1139,HP,Workstation,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,2.59,222900
+1140,HP,2 in 1 Convertible,13.3,2560x1440,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.48,179900
+1141,HP,Workstation,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia Quadro,Windows,2.0,189900
+1142,HP,Ultrabook,12.5,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.26,229695
+1143,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Windows,2.18,100990
+1144,HP,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.88,157900
+1145,Lenovo,2 in 1 Convertible,14.0,2560x1440,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.27,233900
+1146,Lenovo,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,Intel HD,No OS,1.9,33900
+1147,HP,Notebook,15.6,1366x768,AMD E Series,4,500GB HDD,AMD Radeon,Windows,1.86,29700
+1148,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,1TB HDD,AMD Radeon,No OS,2.32,59900
+1149,Dell,Gaming,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.62,119900
+1150,Dell,Notebook,15.6,3840x2160,Intel Core i5,8,256GB SSD,Nvidia GeForce,Windows,2.04,225068
+1151,HP,Notebook,15.6,1920x1080,AMD A6 Series,4,256GB SSD,AMD Radeon,Windows,1.91,47889
+1152,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,149280
+1153,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,12,512GB SSD,Intel HD,Windows,1.4,229900
+1154,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,1TB Hybrid,AMD Radeon,Windows,2.5,78849
+1155,HP,2 in 1 Convertible,13.3,2560x1440,Intel Core i7,8,512GB SSD,Intel HD,Windows,1.48,204100
+1156,Lenovo,Ultrabook,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.7,149900
+1157,MSI,Gaming,14.0,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,1.7,176900
+1158,HP,Gaming,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.62,89900
+1159,Lenovo,Notebook,15.6,1366x768,Intel Core i3,8,1TB HDD,Intel HD,Windows,2.2,45900
+1160,HP,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,No OS,2.1,47699
+1161,Dell,Gaming,15.6,3840x2160,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.62,149800
+1162,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.95,139000
+1163,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Nvidia GeForce,Windows,2.2,46800
+1164,HP,Notebook,14.0,1366x768,Intel Celeron Dual,2,32GB Flash Storage,Intel HD,Windows,1.44,24900
+1165,MSI,Gaming,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.2,83900
+1166,HP,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.96,67900
+1167,HP,Notebook,15.6,1920x1080,Intel Core i7,16,512GB SSD,Intel UHD,Windows,2.1,115900
+1168,Asus,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Windows,2.2,36900
+1169,Lenovo,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,No OS,2.1,39800
+1170,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,No OS,2.2,70900
+1171,Asus,Notebook,14.0,1920x1080,Intel Core i3,4,256GB SSD,Intel HD,Windows,2.0,76900
+1172,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,4,1TB Hybrid,Intel HD,Windows,2.32,82500
+1173,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,3.31,130500
+1174,MSI,Gaming,15.6,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,1.91,215337
+1175,HP,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.07,65000
+1176,Lenovo,2 in 1 Convertible,14.0,2560x1440,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.36,163700
+1177,Lenovo,Ultrabook,15.6,1920x1080,Intel Core i7,6,256GB SSD,Nvidia GeForce,Windows,1.54,83100
+1178,Dell,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GeForce,Linux,1.98,89501
+1179,Acer,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Windows,2.1,33300
+1180,HP,Notebook,15.6,1920x1080,Intel Core i7,6,1TB HDD,Nvidia GeForce,Windows,2.18,79900
+1181,Asus,Gaming,15.6,1920x1080,Intel Core i7,8,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.591,90900
+1182,Dell,2 in 1 Convertible,15.6,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,2.09,117900
+1183,Acer,Notebook,15.6,1920x1080,Intel Core i5,4,256GB SSD,Nvidia GeForce,Windows,2.23,69100
+1184,Dell,Ultrabook,13.3,3200x1800,Intel Core i5,8,256GB SSD,Intel HD,Linux,1.23,109900
+1185,Acer,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.2,259900
+1186,Lenovo,Gaming,15.6,1920x1080,Intel Core i5,8,1TB HDD,Nvidia GeForce,Windows,2.4,81900
+1187,Samsung,2 in 1 Convertible,12.3,2400x1600,Samsung Cortex A72&A53,4,32GB Flash Storage,ARM Mali,Chrome OS,1.15,65900
+1188,HP,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.86,48500
+1189,Apple,Ultrabook,12.0,2304x1440,Intel Core M,8,256GB Flash Storage,Intel HD,Mac OS,0.92,116300
+1190,Dell,2 in 1 Convertible,13.3,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.6,119900
+1191,HP,Notebook,15.6,1920x1080,Intel Core i7,12,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.21,132700
+1192,Lenovo,Notebook,15.6,1366x768,Intel Core i3,4,1TB HDD,AMD Radeon,No OS,1.9,36800
+1193,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,512GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.3,215000
+1194,Acer,Notebook,15.6,1366x768,Intel Celeron Dual,4,1TB HDD,Intel HD,Linux,2.1,27200
+1195,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.43,204890
+1196,Dell,Notebook,15.6,1366x768,Intel Core i3,4,128GB SSD,AMD Radeon,Windows,2.3,49900
+1197,Lenovo,Notebook,15.6,1366x768,Intel Core i7,8,500GB HDD,Nvidia GeForce,No OS,2.2,62900
+1198,Dell,2 in 1 Convertible,15.6,1920x1080,Intel Core i7,16,512GB SSD,Intel UHD,Windows,2.0,128500
+1199,Dell,Ultrabook,13.3,3200x1800,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.2,268000
+1200,Asus,Gaming,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.2,116900
+1201,Dell,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,AMD Radeon,Windows,2.36,88900
+1202,HP,Notebook,15.6,1366x768,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.91,57900
+1203,Lenovo,Notebook,15.6,1366x768,AMD E Series,4,500GB HDD,AMD Radeon,Windows,2.2,29900
+1204,Acer,Notebook,17.3,1600x900,Intel Core i3,8,1TB HDD,Nvidia GeForce,Windows,3.3,62900
+1205,Asus,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,244900
+1206,Apple,Ultrabook,12.0,2304x1440,Intel Core M,8,512GB Flash Storage,Intel HD,Mac OS,0.92,127900
+1207,Asus,Notebook,15.6,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,174900
+1208,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.43,194899
+1209,Dell,2 in 1 Convertible,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,2.191,99900
+1210,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.9,194900
+1211,Acer,Netbook,11.6,1366x768,Intel Celeron Dual,2,32GB SSD,Intel HD,Chrome OS,1.3,17400
+1212,Acer,Notebook,17.3,1600x900,Intel Core i3,4,1TB HDD,Nvidia GeForce,Windows,3.3,59800
+1213,Lenovo,Notebook,17.3,1600x900,Intel Core i5,8,1TB HDD,Intel HD,No OS,2.8,53900
+1214,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.6,127200
+1215,Acer,2 in 1 Convertible,14.0,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.2,114900
+1216,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,2.3,152900
+1217,MSI,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,147611
+1218,HP,Notebook,15.6,1920x1080,AMD A12 Series,6,1TB HDD,AMD Radeon,Windows,2.1,52900
+1219,Dell,Ultrabook,12.5,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.26,171337
+1220,Dell,2 in 1 Convertible,15.0,1920x1080,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.08,50900
+1221,Asus,Notebook,15.6,1366x768,Intel Pentium Quad,4,1TB HDD,Intel HD,Windows,2.65,30900
+1222,Dell,Ultrabook,13.3,3200x1800,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.29,147700
+1223,Dell,Notebook,15.6,1366x768,Intel Core i5,4,1TB HDD,Intel HD,Linux,2.18,52186
+1224,Lenovo,Gaming,15.6,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.6,102900
+1225,MSI,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.2,114900
+1226,Lenovo,Netbook,12.5,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.3,165000
+1227,Razer,Gaming,14.0,1920x1080,Intel Core i7,16,1TB SSD,Nvidia GeForce,Windows,1.95,349900
+1228,Dell,Notebook,15.6,1366x768,Intel Core i3,8,1TB HDD,Intel HD,Windows,2.3,46901
+1229,MSI,Gaming,17.3,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.7,159800
+1230,Apple,Ultrabook,11.6,1366x768,Intel Core i5,4,256GB Flash Storage,Intel HD,Mac OS,1.08,95900
+1231,HP,Notebook,15.6,1920x1080,Intel Core i3,4,1TB HDD,Intel HD,Windows,2.1,47800
+1232,HP,Ultrabook,14.0,2560x1440,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.54,219819
+1233,Dell,Notebook,15.6,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,2.24,73700
+1234,MSI,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.3,116900
+1235,Lenovo,Notebook,13.3,1920x1080,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.4,149900
+1236,Lenovo,Notebook,15.6,1920x1080,AMD A12 Series,6,256GB SSD,AMD Radeon,Windows,2.2,59757
+1237,Asus,Ultrabook,13.3,1920x1080,Intel Core i7,8,256GB SSD,Intel HD,Windows,1.45,128000
+1238,Acer,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Linux,2.4,36180
+1239,Dell,2 in 1 Convertible,17.3,1920x1080,Intel Core i7,16,512GB SSD,Nvidia GeForce,Windows,2.77,179900
+1240,HP,Notebook,14.0,1920x1080,Intel Core i5,4,256GB SSD,Intel HD,Windows,1.54,109999
+1241,Asus,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.5,160000
+1242,Dell,Notebook,14.0,1366x768,Intel Core i5,4,500GB HDD,Intel HD,Windows,1.6,87500
+1243,Asus,Gaming,15.6,1920x1080,Intel Core i7,16,256GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.34,232500
+1244,Lenovo,Notebook,15.6,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,No OS,2.3,57300
+1245,Dell,2 in 1 Convertible,13.3,3200x1800,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.24,181300
+1246,Dell,Notebook,15.6,1366x768,Intel Pentium Quad,4,500GB HDD,Intel HD,Linux,2.2,32400
+1247,HP,Notebook,15.6,1366x768,AMD A6 Series,4,500GB HDD,AMD Radeon,Windows,1.86,39900
+1248,Lenovo,Notebook,15.6,1920x1080,Intel Core i3,6,128GB SSD,Nvidia GeForce,Windows,2.4,56900
+1249,Lenovo,Notebook,14.0,1920x1080,Intel Core i5,8,256GB SSD,Intel HD,Windows,1.9,107200
+1250,Dell,Notebook,15.6,1366x768,Intel Pentium Quad,4,500GB HDD,Intel HD,Windows,2.2,44399
+1251,Asus,Notebook,15.6,1366x768,Intel Celeron Dual,4,1TB HDD,Intel HD,Windows,2.0,33900
+1252,Asus,Gaming,17.3,1920x1080,Intel Core i7,16,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,4.0,190000
+1253,Dell,Notebook,15.6,1366x768,Intel Core i3,4,500GB HDD,Intel HD,Windows,2.29,49000
+1254,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,1TB Hybrid,AMD Radeon,Windows,2.32,89500
+1255,MSI,Gaming,15.6,1920x1080,Intel Core i7,8,128GB SSD +  1TB HDD,Nvidia GeForce,Windows,2.4,122900
+1256,Lenovo,2 in 1 Convertible,14.0,1920x1080,Intel Core i5,4,128GB SSD,Intel HD,Windows,1.8,83301
+1257,Asus,Ultrabook,13.3,1920x1080,Intel Core M,8,512GB SSD,Intel HD,Windows,1.2,72900
+1258,Dell,Notebook,15.6,1366x768,Intel Core i3,6,1TB HDD,Intel HD,Windows,2.3,45900
+1259,Acer,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Linux,2.4,28900
+1260,Dell,Notebook,15.6,1366x768,Intel Celeron Dual,2,500GB HDD,Intel HD,Windows,2.2,37900
+1261,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.6,89900
+1262,HP,Notebook,15.6,1920x1080,AMD A9 Series,6,1TB Hybrid,AMD Radeon,Windows,2.04,54999
+1263,Dell,Notebook,15.6,1366x768,Intel Core i7,8,1TB HDD,AMD Radeon,Linux,2.3,80599
+1264,HP,Netbook,11.6,1366x768,Intel Celeron Dual,2,32GB Flash Storage,Intel HD,Windows,1.17,20900
+1265,Asus,Notebook,15.6,1366x768,Intel Core i7,4,500GB HDD,Nvidia GeForce,Windows,2.2,72032
+1266,Lenovo,2 in 1 Convertible,14.0,1920x1080,Intel Core i7,4,128GB SSD,Intel HD,Windows,1.8,63800
+1267,Lenovo,2 in 1 Convertible,13.3,3200x1800,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.3,149900
+1268,Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual,2,64GB Flash Storage,Intel HD,Windows,1.5,22900
+1269,HP,Notebook,15.6,1366x768,Intel Core i7,6,1TB HDD,AMD Radeon,Windows,2.19,76400
+1270,Asus,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Windows,2.2,36900
+1271,Asus,Ultrabook,13.3,1920x1080,Intel Core M,8,512GB SSD,Intel HD,Windows,1.2,72900
+1272,Dell,Notebook,15.6,1366x768,Intel Core i3,6,1TB HDD,Intel HD,Windows,2.3,45900
+1273,Acer,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Linux,2.4,28900
+1274,Dell,Notebook,15.6,1366x768,Intel Celeron Dual,2,500GB HDD,Intel HD,Windows,2.2,37900
+1275,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.6,89900
+1276,HP,Notebook,15.6,1920x1080,AMD A9 Series,6,1TB Hybrid,AMD Radeon,Windows,2.04,54999
+1277,Dell,Notebook,15.6,1366x768,Intel Core i7,8,1TB HDD,AMD Radeon,Linux,2.3,80599
+1278,HP,Netbook,11.6,1366x768,Intel Celeron Dual,2,32GB Flash Storage,Intel HD,Windows,1.17,20900
+1279,Asus,Notebook,15.6,1366x768,Intel Core i7,4,500GB HDD,Nvidia GeForce,Windows,2.2,72032
+1280,Lenovo,2 in 1 Convertible,14.0,1920x1080,Intel Core i7,4,128GB SSD,Intel HD,Windows,1.8,63800
+1281,Lenovo,2 in 1 Convertible,13.3,3200x1800,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.3,149900
+1282,Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual,2,64GB Flash Storage,Intel HD,Windows,1.5,22900
+1283,HP,Notebook,15.6,1366x768,Intel Core i7,6,1TB HDD,AMD Radeon,Windows,2.19,76400
+1284,Asus,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Windows,2.2,36900
+1285,Asus,Ultrabook,13.3,1920x1080,Intel Core M,8,512GB SSD,Intel HD,Windows,1.2,72900
+1286,Dell,Notebook,15.6,1366x768,Intel Core i3,6,1TB HDD,Intel HD,Windows,2.3,45900
+1287,Acer,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Linux,2.4,28900
+1288,Dell,Notebook,15.6,1366x768,Intel Celeron Dual,2,500GB HDD,Intel HD,Windows,2.2,37900
+1289,Lenovo,Notebook,15.6,1920x1080,Intel Core i7,8,1TB HDD,Nvidia GeForce,Windows,2.6,89900
+1290,HP,Notebook,15.6,1920x1080,AMD A9 Series,6,1TB Hybrid,AMD Radeon,Windows,2.04,54999
+1291,Dell,Notebook,15.6,1366x768,Intel Core i7,8,1TB HDD,AMD Radeon,Linux,2.3,80599
+1292,HP,Netbook,11.6,1366x768,Intel Celeron Dual,2,32GB Flash Storage,Intel HD,Windows,1.17,20900
+1293,Asus,Notebook,15.6,1366x768,Intel Core i7,4,500GB HDD,Nvidia GeForce,Windows,2.2,72032
+1294,Lenovo,2 in 1 Convertible,14.0,1920x1080,Intel Core i7,4,128GB SSD,Intel HD,Windows,1.8,63800
+1295,Lenovo,2 in 1 Convertible,13.3,3200x1800,Intel Core i7,16,512GB SSD,Intel HD,Windows,1.3,149900
+1296,Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual,2,64GB Flash Storage,Intel HD,Windows,1.5,22900
+1297,HP,Notebook,15.6,1366x768,Intel Core i7,6,1TB HDD,AMD Radeon,Windows,2.19,76400
+1298,Asus,Notebook,15.6,1366x768,Intel Celeron Dual,4,500GB HDD,Intel HD,Windows,2.2,36900
